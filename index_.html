@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        .leaflet-control-search {
+            position: absolute;
+            top: -75px;
+            left: 50px;
+            z-index: 1000;
+        }
+        .search-label {
+            font-weight: bold;
+            display: block;
+            margin-top: 10px;
+            /* margin-bottom: 10px; */
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+    </style>
+    <title>Geoportal "Pionowego Świata"</title>
+    <link rel="icon" type="image/ioo" href="icons/favicon.png"/>
+    <meta charset="UTF-8">
+
+</head>
+
+<body>
+    <div id="map"></div>
+    <link rel="stylesheet" href="leaflet/leaflet.css">
+    <script src="leaflet/leaflet.js"></script>
+    <link rel="stylesheet" href="leaflet/bower_components/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.css">
+    <script src="leaflet/bower_components/leaflet-groupedlayercontrol/dist/leaflet.groupedlayercontrol.min.js"></script>
+    <link rel="stylesheet" href="leaflet/node_modules/leaflet-search/dist/leaflet-search.min.css">
+    <script src="leaflet/node_modules/leaflet-search/dist/leaflet-search.min.js"></script>
+    <link rel="stylesheet" href="leaflet/node_modules/leaflet-search/dist/leaflet-search.src.css">
+    <script src="leaflet/node_modules/leaflet-search/dist/leaflet-search.src.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="leaflet/node_modules/leaflet.elevation/dist/Leaflet.Elevation-0.0.2.css">
+    <script src="leaflet/node_modules/leaflet.elevation/dist/Leaflet.Elevation-0.0.2.min.js"></script>
+    <script>
+        const API_KEY = 'ykANcecXNeS2zhtAIB6OVefqB0SQRcYxNFufSwZ4HDM';
+
+        var map = L.map('map', {
+            maxZoom: 20 
+        }).setView([49.80, 19.19], 10);
+
+        var mapyczWinter = L.tileLayer(`https://api.mapy.cz/v1/maptiles/winter/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
+            minZoom: 0,
+            maxZoom: 20,
+            attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+        });
+        mapyczWinter.addTo(map);
+
+        var mapyczTourist = L.tileLayer(`https://api.mapy.cz/v1/maptiles/outdoor/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
+            minZoom: 0,
+            maxZoom: 20,
+            attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+        });
+        mapyczTourist.addTo(map);
+
+        var mapyczSatelite = L.tileLayer(`https://api.mapy.cz/v1/maptiles/aerial/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
+            minZoom: 0,
+            maxZoom: 20,
+            attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+        });
+        mapyczSatelite.addTo(map);
+
+        var mapyczBorder = L.tileLayer(`https://api.mapy.cz/v1/maptiles/names-overlay/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
+            minZoom: 8,
+            maxZoom: 20,
+            attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
+        });
+        mapyczBorder.addTo(map);
+
+        const LogoControl = L.Control.extend({
+            options: {
+                position: 'bottomleft',
+            },
+
+            onAdd: function (map) {
+                const container = L.DomUtil.create('div');
+                const link = L.DomUtil.create('a', '', container);
+
+                link.setAttribute('href', 'http://mapy.cz/');
+                link.setAttribute('target', '_blank');
+                link.innerHTML = '<img src="https://api.mapy.cz/img/api/logo.svg" />';
+                L.DomEvent.disableClickPropagation(link);
+                return container;
+            },
+        });
+        new LogoControl().addTo(map);
+
+        var wmsOrto = L.tileLayer.wms('https://mapy.geoportal.gov.pl/wss/service/PZGIK/ORTO/WMS/StandardResolution?', {
+            layers: 'Raster',
+            format: 'image/png',
+            transparent: true,
+            version: '1.3.0',
+            attribution: '&copy; Główny Urząd Geodezji i Kartografii (GUGiK)'
+        });
+        wmsOrto.addTo(map);
+
+        var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
+            foo: 'bar',
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        });
+        osm.addTo(map);
+        
+        var peaks = L.tileLayer.wms('https://mapy.geoportal.gov.pl/wss/service/img/guest/WMS/Szczyty?', {
+            minZoom: 10,
+            layers: 'szczyty',
+            format: 'image/png',
+            transparent: true,
+            version: '1.3.0',
+            minx: '12000.0',
+            attribution: '&copy; Główny Urząd Geodezji i Kartografii (GUGiK)'
+        });
+        peaks.addTo(map);
+        
+        var parkiNarodowe = L.tileLayer.wms("http://sdi.gdos.gov.pl/wms", {
+            layers: 'GDOS:ParkiNarodowe',
+            format: 'image/png',
+            transparent: true,
+            attribution: 'Dane: GDOŚ'
+        });
+
+        var parkiKrajobrazowe = L.tileLayer.wms("http://sdi.gdos.gov.pl/wms", {
+            layers: 'GDOS:ParkiKrajobrazowe',
+            format: 'image/png',
+            transparent: true,
+            attribution: 'Dane: GDOŚ'
+        });
+
+        var googleSatelite = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 20,
+            subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
+            attribution: '&copy; Google Maps'
+        });
+        googleSatelite.addTo(map);
+
+        L.control.scale().addTo(map);
+
+        var baseLayers = {
+            "Ortofotomapa": wmsOrto,
+            "Google Maps": googleSatelite,
+            "Satelita": mapyczSatelite,
+            "Podkład zimowy": mapyczWinter,
+            "Mapa turystuczna": mapyczTourist,
+            "Granice": mapyczBorder,
+            "OpenStreetMap": osm
+        };
+
+        overlays = {};
+
+        var layersControl = L.control.layers(baseLayers, overlays)
+        
+        var greenIcon = L.icon({
+            iconUrl: 'icons/peak-green.png',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15],
+            popupAnchor: [0, -15]
+        });
+
+        var redIcon = L.icon({
+            iconUrl: 'icons/peak-red.png',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15],
+            popupAnchor: [0, -15]
+        });
+
+        var headquaterIcon = L.icon({
+            iconUrl: 'icons/headquarter.png',
+            iconSize: [30, 30],
+            iconAnchor: [15, 15],
+            popupAnchor: [0, -15]
+        });
+        
+        var headquater = {
+            "type": "FeatureCollection",
+            "name": "siedziba",
+            "features": [
+                { "type": "Feature", "properties": { 
+                    "name": "Siedziba SK PTT \"Pionowy Świat\"",
+                    "address": "ul. Józefa Lompy 10",
+                    "postalcity": "43-300, Bielsko-Biała",
+                    "classroom": "208",
+                    "school": "V Liceum Ogólnokształcące",
+                    "color": "#c8ccce" }, 
+                    "geometry": { 
+                        "type": "Point", "coordinates": [ 19.041126, 49.818073] } },
+            ]}
+
+        var headquarterLayer = L.geoJSON(headquater, {
+            onEachFeature: function (feature, layer) {
+                var popupContent = `<b>${feature.properties.name}</b><br>` +
+                `${feature.properties.school} ` + `(sala ${feature.properties.classroom})<br>` +
+                `${feature.properties.address}<br>` +
+                `${feature.properties.postalcity}<br>` 
+                layer.bindPopup(popupContent);
+            },
+            pointToLayer: function (feature, latlng) {
+                return L.marker(latlng, {
+                icon: headquaterIcon
+            });
+        }
+        }).addTo(map);
+        
+        var zdobyteLayer = L.layerGroup();
+        var niezdobyteLayer = L.layerGroup();
+        var msbLayer = L.layerGroup();
+        var loopLayer = L.layerGroup();
+        var headquater = L.layerGroup();
+        var groupedOverlays = {
+            "Korona Gór Polski": {
+                "Zdobyte": zdobyteLayer,
+                "Nie zdobyte": niezdobyteLayer
+            },
+            "Zdobyte fragmenty": {
+                "Mały Szlak Beskidzki": msbLayer,
+                "The Loop": loopLayer
+            },
+            "Usługa WMS": {
+                "Szczyty Geoportal": peaks,
+                "Parki Narodowe": parkiNarodowe,
+                "Parki Krajobrazowe": parkiKrajobrazowe
+            },
+            "Dodatki": {
+                "Siedziba": headquarterLayer
+            }
+        };
+
+        fetch('data/kgp.geojson')
+            .then(response => response.json())
+            .then(data => {
+                var kgpGeojson = L.geoJSON(data, {
+                    pointToLayer: function(feature, latlng) {
+                        var icon = feature.properties.zdobyty ? greenIcon : redIcon;
+                        var marker = L.marker(latlng, { icon: icon });
+
+                        if (feature.properties.zdobyty) {
+                            zdobyteLayer.addLayer(marker);
+                        } else {
+                            niezdobyteLayer.addLayer(marker);
+                        }
+
+                        return marker;
+                    },
+                    onEachFeature: function(feature, layer) {
+                        var props = feature.properties;
+                        var popupContent = `<b>${props.nazwa}</b><br>` +
+                            `Wysokość: ${props.wysokosc} m n.p.m.<br>` +
+                            `Pasmo: ${props.pasmo}<br>` +
+                            (props.zdobyty ? `Status: <b>Zdobyty</b><br>Data: ${props.data_zdobycia}<br>` +
+                            (props.instagram ? `<a href="${props.instagram}" target="_blank">Instagram</a>` : "") :
+                            `Status: <b>Nie zdobyty</b>`);
+                        layer.bindPopup(popupContent);
+                    }
+                });
+                zdobyteLayer.addTo(map);
+                niezdobyteLayer.addTo(map);
+
+                var searchControl = new L.Control.Search({
+                    layer: kgpGeojson,
+                    propertyName: 'nazwa',
+                    initial: false,
+                    zoom: 15,
+                    marker: false,
+                    moveToLaction: function(latlng, title, map) {
+                        map.setView(latlng, 12);
+                    }
+                })
+                map.addControl(searchControl);
+
+                var searchContainer = document.querySelector('.leaflet-control-search');
+                var searchLabel = document.createElement('label');
+                searchLabel.textContent = "Wyszukaj szczyt KGP:";
+                searchLabel.classList.add('search-label');
+                searchContainer.prepend(searchLabel);
+            })
+            .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));
+        
+        var msbVisible = false;
+        var loopVisible = false;
+
+        var msbElevation = L.control.elevation({ 
+            position: 'bottomleft',
+            collapsed: false
+        });
+        var loopElevation = L.control.elevation({ 
+            position: 'bottomleft',
+            collapsed: false
+        });
+
+        var msbGeojsonLayer = null;
+        var loopGeojsonLayer = null;
+
+        function toggleProfile(button, szlak) {
+            if (szlak === 1) {
+                if (msbVisible) {
+                    map.removeControl(msbElevation);
+                    map.removeLayer(msbGeojsonLayer);
+                    button.innerHTML = 'Mały Szlak Beskidzki: Wyłączony';
+                } else {
+                    msbElevation.addTo(map);
+                    msbGeojsonLayer.addTo(map);
+                    button.innerHTML = 'Mały Szlak Beskidzki: Włączony';
+                }
+                msbVisible = !msbVisible;
+            } else if (szlak === 2) {
+                if (loopVisible) {
+                    map.removeControl(loopElevation);
+                    map.removeLayer(loopGeojsonLayer);
+                    button.innerHTML = 'Wielka Pętla Beskidzka "The Loop": Wyłączony';
+                } else {
+                    loopElevation.addTo(map);
+                    loopGeojsonLayer.addTo(map);
+                    button.innerHTML = 'Wielka Pętla Beskidzka "The Loop": Włączony';
+                }
+                loopVisible = !loopVisible;
+            }
+        }
+
+        fetch('data/msb.geojson')
+            .then(response => response.json())
+            .then(data => {
+                msbGeojsonLayer = L.geoJson(data, {
+                    style: function (feature) {
+                        return {
+                            color: 'red',
+                            weight: 3,
+                            opacity: 1,
+                            zIndex: 1000
+                        };
+                    },
+                    onEachFeature: msbElevation.addData.bind(msbElevation)
+                });
+            })
+            .catch(error => console.error('Error loading GeoJSON for MSB trail:', error));
+
+        fetch('data/theloop.geojson')
+            .then(response => response.json())
+            .then(data => {
+                loopGeojsonLayer = L.geoJson(data, {
+                    style: function (feature) {
+                        return {
+                            color: '#053f5c',
+                            weight: 3,
+                            opacity: 1
+                        };
+                    },
+                    onEachFeature: loopElevation.addData.bind(loopElevation)
+                });
+            })
+            .catch(error => console.error('Error loading GeoJSON for TheLoop trail:', error));
+
+        var toggleMSB = L.control({ position: 'topright' });
+        toggleMSB.onAdd = function (map) {
+            var buttonMSB = L.DomUtil.create('button', 'toggle-profile');
+            buttonMSB.innerHTML = 'Mały Szlak Beskidzki: Wyłączony';
+            L.DomEvent.on(buttonMSB, 'click', function () {
+                toggleProfile(buttonMSB, 1);
+            });
+            return buttonMSB;
+        };
+        toggleMSB.addTo(map);
+
+        var toggleLOOP = L.control({ position: 'topright' });
+        toggleLOOP.onAdd = function (map) {
+            var buttonLOOP = L.DomUtil.create('button', 'toggle-profile');
+            buttonLOOP.innerHTML = 'Wielka Pętla Beskidzka "The Loop": Wyłączony';
+            L.DomEvent.on(buttonLOOP, 'click', function () {
+                toggleProfile(buttonLOOP, 2);
+            });
+            return buttonLOOP;
+        };
+        toggleLOOP.addTo(map);
+
+        fetch('data/msb_done.geojson')
+            .then(response => response.json())
+            .then(data => {
+                var msbDoneGeojson = L.geoJSON(data, {
+                    style: function(feature) {
+                        return { color: "#73c53e", weight: 4, zIndex: 0};
+                    },
+                    onEachFeature: function(feature, layer) {
+                        var props = feature.properties;
+                        var popupContent = `<b>${props.name}</b><br>` +
+                        `Data przejścia: ${props.date}<br>` +
+                        `<a href="${props.instagram}" target="_blank">Instagram</a>`
+                        layer.bindPopup(popupContent);
+                    }                    
+                }).addTo(msbLayer);
+            })
+            .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));
+
+            fetch('data/theloop_done.geojson')
+            .then(response => response.json())
+            .then(data => {
+                var loopDoneGeojson = L.geoJSON(data, {
+                    style: function(feature) {
+                        return { color: "#73c53e", weight: 4, zIndex: 0};
+                    },
+                    onEachFeature: function(feature, layer) {
+                        var props = feature.properties;
+                        var popupContent = `<b>${props.name}</b><br>`
+                        layer.bindPopup(popupContent);
+                    }                    
+                }).addTo(loopLayer);
+            })
+            .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));
+
+        var layersControl = L.control.groupedLayers(baseLayers, groupedOverlays).addTo(map);
+        map.attributionControl.setPrefix('<a href="http://leafletjs.com">Leaflet</a> | <a href="https://pionowylo5.pl">Szkolny Klub PTT "Pionowy Świat"</a>');
+    </script>
+</body>    
+</html>

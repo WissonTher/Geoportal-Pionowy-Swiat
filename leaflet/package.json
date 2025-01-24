@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "leaflet-gpx": "^2.1.2",
+    "leaflet-search": "^4.0.0",
+    "leaflet.elevation": "^0.0.3",
+    "leaflet.magnifyingglass": "^1.0.0"
+  }
+}
