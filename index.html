@@ -237,7 +237,7 @@
             }
         };
 
-        fetch('data/kgp.geojson')
+        fetch('data/kgp.geojson?v=' + Date.now())
             .then(response => response.json())
             .then(data => {
                 var kgpGeojson = L.geoJSON(data, {
