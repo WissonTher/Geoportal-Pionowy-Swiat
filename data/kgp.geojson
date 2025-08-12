@@ -187,9 +187,9 @@
           "nazwa": "Wysoka",
           "wysokosc": 1050,
           "pasmo": "Pieniny",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
+          "zdobyty": true,
+          "instagram": "https://www.instagram.com/p/DIDazupNgsT/?img_index=1",
+          "data_zdobycia": "4 kwietnia 2025"
         },
         "geometry": {
           "type": "Point",
@@ -337,9 +337,9 @@
           "nazwa": "Biskupia Kopa",
           "wysokosc": 889,
           "pasmo": "Góry Opawskie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
+          "zdobyty": true,
+          "instagram": "https://www.instagram.com/p/DI9MosJsToX/?img_index=1",
+          "data_zdobycia": "27 kwietnia 2025"
         },
         "geometry": {
           "type": "Point",
@@ -412,9 +412,9 @@
           "nazwa": "Łysica",
           "wysokosc": 614,
           "pasmo": "Góry Świętokrzyskie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
+          "zdobyty": true,
+          "instagram": "https://www.instagram.com/p/DH1K7wuMVPT/?img_index=1",
+          "data_zdobycia": "29 marca 2025"
         },
         "geometry": {
           "type": "Point",
