@@ -214,6 +214,8 @@
         var headquater = L.layerGroup();
         var msbLayer = L.layerGroup();
         var loopLayer = L.layerGroup();
+        var zdobyteTatraLayer = L.layerGroup();
+        var niezdobyteTatraLayer = L.layerGroup();
         var groupedOverlays = {
             "Korona Gór Polski": {
                 "Zdobyte": zdobyteLayer,
@@ -226,6 +228,10 @@
             "Zdobyte fragmenty": {
                 "Mały Szlak Beskidzki": msbDoneLayer,
                 "The Loop": loopDoneLayer
+            },
+            "Tatry ponad wszystko": {
+                "Zdobyte szczyty": zdobyteTatraLayer,
+                "Niezdobyte szczyty": niezdobyteTatraLayer
             },
             "Usługa WMS": {
                 "Szczyty Geoportal": peaks,
@@ -306,6 +312,7 @@
             })
             .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));
         
+
         fetch('data/theloop.geojson')
             .then(response => response.json())
             .then(data => {
@@ -324,7 +331,36 @@
                 }).addTo(loopLayer);
             })
             .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));
+        
+        fetch('data/szczyty_tatrzanskie.geojson?v=' + Date.now())
+            .then(response => response.json())
+            .then(data => {
+                var tatrapeakGeojson = L.geoJSON(data, {
+                    pointToLayer: function(feature, latlng) {
+                        var icon = feature.properties.zdobyty ? greenIcon : redIcon;
+                        var marker = L.marker(latlng, { icon: icon });
 
+                        if (feature.properties.zdobyty) {
+                            zdobyteTatraLayer.addLayer(marker);
+                        } else {
+                            niezdobyteTatraLayer.addLayer(marker);
+                        }
+                        return marker;
+                    },
+                    onEachFeature: function(feature, layer) {
+                        var props = feature.properties;
+                        var popupContent = `<b>${props.nazwa}</b><br>` +
+                            `Wysokość: ${props.wysokosc} m n.p.m.<br>` +
+                            (props.zdobyty ? `Status: <b>Zdobyty</b><br>Data: ${props.data_zdobycia}<br>` +
+                            (props.instagram ? `<a href="${props.instagram}" target="_blank">Instagram</a>` : "") :
+                            `Status: <b>Nie zdobyty</b>`);
+                        layer.bindPopup(popupContent);
+                    }
+                })
+                zdobyteTatraLayer.addTo(map);
+                niezdobyteTatraLayer.addTo(map);
+            })
+            .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));
 
         fetch('data/msb_done.geojson')
             .then(response => response.json())
