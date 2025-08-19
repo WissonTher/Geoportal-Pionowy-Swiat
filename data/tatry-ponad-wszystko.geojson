@@ -1,0 +1,3227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0881081,
+          49.1795756
+        ]
+      },
+      "properties": {
+        "nazwa": "Rysy",
+        "wysokosc": 2499.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0880078,
+          49.1833905
+        ]
+      },
+      "properties": {
+        "nazwa": "Malé Rysy / Niżnie Rysy",
+        "wysokosc": 2430.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0751157,
+          49.1789015
+        ]
+      },
+      "properties": {
+        "nazwa": "Volia veža / Wołowa Turnia",
+        "wysokosc": 2373.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0552453,
+          49.1877057
+        ]
+      },
+      "properties": {
+        "nazwa": "Hincovo sedlo / Hińczowa Przełęcz",
+        "wysokosc": 2323.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0762487,
+          49.1786423
+        ]
+      },
+      "properties": {
+        "nazwa": "Żabia Przełęcz Mięguszowiecka / Východná volia štrbina",
+        "wysokosc": 2315.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0093063,
+          49.2194211
+        ]
+      },
+      "properties": {
+        "nazwa": "Svinica / Świnica",
+        "wysokosc": 2302.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0096116,
+          49.2193742
+        ]
+      },
+      "properties": {
+        "nazwa": "Świnicka Kopa",
+        "wysokosc": 2298.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0094907,
+          49.2193522
+        ]
+      },
+      "properties": {
+        "nazwa": "Świnicka Szczerbina Wyżnia",
+        "wysokosc": 2295.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0287051,
+          49.2183172
+        ]
+      },
+      "properties": {
+        "nazwa": "Kozi Wierch",
+        "wysokosc": 2291.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0110536,
+          49.2193641
+        ]
+      },
+      "properties": {
+        "nazwa": "Gąsienicowa Przełączka",
+        "wysokosc": 2265.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0276479,
+          49.2186808
+        ]
+      },
+      "properties": {
+        "nazwa": "Kozie Czuby",
+        "wysokosc": 2263.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0338276,
+          49.2202917
+        ]
+      },
+      "properties": {
+        "nazwa": "Buczynowa Strażnica",
+        "wysokosc": 2242.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0325692,
+          49.2247696
+        ]
+      },
+      "properties": {
+        "nazwa": "Zadni Granat",
+        "wysokosc": 2240.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0327347,
+          49.2257013
+        ]
+      },
+      "properties": {
+        "nazwa": "Pośredni Granat",
+        "wysokosc": 2234.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0332931,
+          49.2269445
+        ]
+      },
+      "properties": {
+        "nazwa": "Skrajny Granat",
+        "wysokosc": 2228.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.020038,
+          49.2189222
+        ]
+      },
+      "properties": {
+        "nazwa": "Mały Kozi Wierch",
+        "wysokosc": 2226.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0339577,
+          49.2206051
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełączka nad Dolinką Buczynową",
+        "wysokosc": 2225.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0325875,
+          49.2254476
+        ]
+      },
+      "properties": {
+        "nazwa": "Pośrednia Sieczkowa Przełączka",
+        "wysokosc": 2218.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0495127,
+          49.2353625
+        ]
+      },
+      "properties": {
+        "nazwa": "Wielka Koszysta",
+        "wysokosc": 2193.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0469444,
+          49.2319444
+        ]
+      },
+      "properties": {
+        "nazwa": "Waksmundzki Wierch",
+        "wysokosc": 2189.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0325126,
+          49.2213441
+        ]
+      },
+      "properties": {
+        "nazwa": "Czarny Mniszek",
+        "wysokosc": 2178.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0357587,
+          49.2273331
+        ]
+      },
+      "properties": {
+        "nazwa": "Orla Baszta",
+        "wysokosc": 2177.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0401058,
+          49.1972908
+        ]
+      },
+      "properties": {
+        "nazwa": "Hrubý štít / Szpiglasowy Wierch",
+        "wysokosc": 2172.1,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0430864,
+          49.227426
+        ]
+      },
+      "properties": {
+        "nazwa": "Mała Buczynowa Turnia",
+        "wysokosc": 2172.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155525,
+          49.2236914
+        ]
+      },
+      "properties": {
+        "nazwa": "Zadni Kościelec",
+        "wysokosc": 2162.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8409972,
+          49.1926302
+        ]
+      },
+      "properties": {
+        "nazwa": "Blyšť / Błyszcz",
+        "wysokosc": 2159.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0697268,
+          49.1852039
+        ]
+      },
+      "properties": {
+        "nazwa": "Kazalnica Mięguszowiecka",
+        "wysokosc": 2159.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.016392,
+          49.2190881
+        ]
+      },
+      "properties": {
+        "nazwa": "Zawrat",
+        "wysokosc": 2159.0,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0353128,
+          49.2272058
+        ]
+      },
+      "properties": {
+        "nazwa": "Mała Orla Turniczka",
+        "wysokosc": 2158.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0696325,
+          49.1849966
+        ]
+      },
+      "properties": {
+        "nazwa": "Siodło za Kazalnicą",
+        "wysokosc": 2157.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0068154,
+          49.2134347
+        ]
+      },
+      "properties": {
+        "nazwa": "Valentková / Walentkowy Wierch",
+        "wysokosc": 2156.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0145834,
+          49.2251794
+        ]
+      },
+      "properties": {
+        "nazwa": "Kościelec",
+        "wysokosc": 2155.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0344732,
+          49.2270814
+        ]
+      },
+      "properties": {
+        "nazwa": "Graniacka Przełęcz",
+        "wysokosc": 2145.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0464117,
+          49.2284705
+        ]
+      },
+      "properties": {
+        "nazwa": "Kopa nad Krzyżnem",
+        "wysokosc": 2135.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0504613,
+          49.1894108
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełączka pod Zadnim Mnichem / Štrbina za Druhým Mníchom",
+        "wysokosc": 2135.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0074114,
+          49.2139558
+        ]
+      },
+      "properties": {
+        "nazwa": "Niżnia Walentkowa Baszta / Nižná Valentkova bašta",
+        "wysokosc": 2129.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.025325,
+          49.2195525
+        ]
+      },
+      "properties": {
+        "nazwa": "Kozia Przełęcz",
+        "wysokosc": 2126.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0072567,
+          49.2138526
+        ]
+      },
+      "properties": {
+        "nazwa": "Vyšná Valentkova štrbina / Wyżnia Walentkowa Szczerbina",
+        "wysokosc": 2124.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0230767,
+          49.2196364
+        ]
+      },
+      "properties": {
+        "nazwa": "Zmarzła Przełęcz",
+        "wysokosc": 2123.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0472782,
+          49.228652
+        ]
+      },
+      "properties": {
+        "nazwa": "Krzyżne",
+        "wysokosc": 2112.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0149777,
+          49.2244429
+        ]
+      },
+      "properties": {
+        "nazwa": "Kościelcowa Przełęcz",
+        "wysokosc": 2110.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.042199,
+          49.1978535
+        ]
+      },
+      "properties": {
+        "nazwa": "Szpiglasowa Przełęcz",
+        "wysokosc": 2110.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0383598,
+          49.2272566
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz Nowickiego",
+        "wysokosc": 2105.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9034053,
+          49.2310073
+        ]
+      },
+      "properties": {
+        "nazwa": "Ciemniak / Temniak",
+        "wysokosc": 2096.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9192231,
+          49.2358298
+        ]
+      },
+      "properties": {
+        "nazwa": "Malolučniak / Małołączniak",
+        "wysokosc": 2096.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0157635,
+          49.2225688
+        ]
+      },
+      "properties": {
+        "nazwa": "Mylna Przełęcz",
+        "wysokosc": 2096.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0837021,
+          49.1840203
+        ]
+      },
+      "properties": {
+        "nazwa": "Niżnia Tomkowa Przełączka",
+        "wysokosc": 2094.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0865162,
+          49.1891072
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnia Białczańska Przełęcz",
+        "wysokosc": 2085.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0333875,
+          49.1992073
+        ]
+      },
+      "properties": {
+        "nazwa": "Vyšný kostúr / Wyżni Kostur",
+        "wysokosc": 2083.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0344749,
+          49.198628
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnia Liptowska Ławka",
+        "wysokosc": 2071.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7631281,
+          49.2075694
+        ]
+      },
+      "properties": {
+        "nazwa": "Volovec / Wołowiec",
+        "wysokosc": 2064.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0322557,
+          49.1999582
+        ]
+      },
+      "properties": {
+        "nazwa": "Niżni Kostur / Nižný kostúr",
+        "wysokosc": 2055.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0846629,
+          49.1945073
+        ]
+      },
+      "properties": {
+        "nazwa": "Owcza Przełęcz",
+        "wysokosc": 2038.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9147449,
+          49.2333774
+        ]
+      },
+      "properties": {
+        "nazwa": "Litvorové sedlo / Litworowa Przełęcz",
+        "wysokosc": 2037.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0328646,
+          49.1993634
+        ]
+      },
+      "properties": {
+        "nazwa": "Niżnia Liptowska Ławka / Nižná liptovská lávka",
+        "wysokosc": 2035.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8008168,
+          49.2022301
+        ]
+      },
+      "properties": {
+        "nazwa": "Kopa Prawdy",
+        "wysokosc": 2027.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9003,
+          49.2346773
+        ]
+      },
+      "properties": {
+        "nazwa": "Twarda Kopa",
+        "wysokosc": 2026.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0449941,
+          49.191758
+        ]
+      },
+      "properties": {
+        "nazwa": "Vráta Chałubińského / Wrota Chałubińskiego",
+        "wysokosc": 2022.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0535269,
+          49.243757
+        ]
+      },
+      "properties": {
+        "nazwa": "Mała Koszysta",
+        "wysokosc": 2014.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9879231,
+          49.2282368
+        ]
+      },
+      "properties": {
+        "nazwa": "Beskid / Beskyd",
+        "wysokosc": 2012.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9322676,
+          49.2365407
+        ]
+      },
+      "properties": {
+        "nazwa": "Kondratova kopa / Kopa Kondracka",
+        "wysokosc": 2005.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8075854,
+          49.2056581
+        ]
+      },
+      "properties": {
+        "nazwa": "Končistá / Kończysty Wierch",
+        "wysokosc": 2002.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0125623,
+          49.2079436
+        ]
+      },
+      "properties": {
+        "nazwa": "Hladké sedlo / Gładka Przełęcz",
+        "wysokosc": 1994.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9815609,
+          49.2318014
+        ]
+      },
+      "properties": {
+        "nazwa": "Kasprov vrch / Kasprowy Wierch",
+        "wysokosc": 1987.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0209245,
+          49.2016219
+        ]
+      },
+      "properties": {
+        "nazwa": "Wielka Kotelnica / Veľká Kotolnica",
+        "wysokosc": 1987.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9023403,
+          49.2133146
+        ]
+      },
+      "properties": {
+        "nazwa": "Poľská Tomanová / Tomanowy Wierch Polski",
+        "wysokosc": 1977.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0264928,
+          49.2004356
+        ]
+      },
+      "properties": {
+        "nazwa": "Mała Kotelnica / Malá Kotolnica",
+        "wysokosc": 1974.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.029517,
+          49.1997972
+        ]
+      },
+      "properties": {
+        "nazwa": "Czarna Ławka",
+        "wysokosc": 1969.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0175584,
+          49.2040567
+        ]
+      },
+      "properties": {
+        "nazwa": "Gładka Ławka / Hladká lávka",
+        "wysokosc": 1965.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8295433,
+          49.2016538
+        ]
+      },
+      "properties": {
+        "nazwa": "Sivá veža / Siwy Zwornik",
+        "wysokosc": 1965.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8036964,
+          49.2046044
+        ]
+      },
+      "properties": {
+        "nazwa": "Jarząbcza Przełęcz",
+        "wysokosc": 1955.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9830376,
+          49.2309905
+        ]
+      },
+      "properties": {
+        "nazwa": "Sucha Przełęcz / Suché sedlo",
+        "wysokosc": 1950.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9052018,
+          49.2247799
+        ]
+      },
+      "properties": {
+        "nazwa": "Głazista Turnia / Stoly",
+        "wysokosc": 1949.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9038909,
+          49.2256031
+        ]
+      },
+      "properties": {
+        "nazwa": null,
+        "wysokosc": 1943.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8266377,
+          49.2013151
+        ]
+      },
+      "properties": {
+        "nazwa": "Gaborowa Przełęcz / Gáborovo sedlo",
+        "wysokosc": 1938.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9036858,
+          49.226756
+        ]
+      },
+      "properties": {
+        "nazwa": "Mała Przełączka",
+        "wysokosc": 1915.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8745966,
+          49.2011755
+        ]
+      },
+      "properties": {
+        "nazwa": "Hlińska Przełęcz / Hlinské sedlo",
+        "wysokosc": 1906.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8968976,
+          49.2120048
+        ]
+      },
+      "properties": {
+        "nazwa": "Tomanowa Kopa",
+        "wysokosc": 1899.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0128241,
+          49.2284512
+        ]
+      },
+      "properties": {
+        "nazwa": "Czuba nad Karbem",
+        "wysokosc": 1896.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9341016,
+          49.2509538
+        ]
+      },
+      "properties": {
+        "nazwa": "Wielki Giewont",
+        "wysokosc": 1894.5,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9403201,
+          49.2336471
+        ]
+      },
+      "properties": {
+        "nazwa": "Suchy Wierch Kondracki / Suchá kopa",
+        "wysokosc": 1893.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7584624,
+          49.215958
+        ]
+      },
+      "properties": {
+        "nazwa": "Rakoń / Rákoň",
+        "wysokosc": 1879.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0588475,
+          49.2143579
+        ]
+      },
+      "properties": {
+        "nazwa": "Świstowa Kopa",
+        "wysokosc": 1875.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9661663,
+          49.2312889
+        ]
+      },
+      "properties": {
+        "nazwa": "Pośredni Goryczkowy Wierch / Prostredný Goričkový vrch",
+        "wysokosc": 1874.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0581749,
+          49.2137089
+        ]
+      },
+      "properties": {
+        "nazwa": "Świstowe Siodło",
+        "wysokosc": 1870.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9019256,
+          49.216583
+        ]
+      },
+      "properties": {
+        "nazwa": "Suchy Wierch Tomanowy / Suchý vrch",
+        "wysokosc": 1869.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.835383,
+          49.2129588
+        ]
+      },
+      "properties": {
+        "nazwa": "Zadni Ornak",
+        "wysokosc": 1867.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.011406,
+          49.2299344
+        ]
+      },
+      "properties": {
+        "nazwa": "Mały Kościelec",
+        "wysokosc": 1866.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9387605,
+          49.2342617
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz pod Kopą Kondracką / Kondracké sedlo",
+        "wysokosc": 1863.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7588024,
+          49.2147304
+        ]
+      },
+      "properties": {
+        "nazwa": "Zawracie",
+        "wysokosc": 1863.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8329494,
+          49.2190459
+        ]
+      },
+      "properties": {
+        "nazwa": "Ornak",
+        "wysokosc": 1854.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0117079,
+          49.2288106
+        ]
+      },
+      "properties": {
+        "nazwa": "Karb",
+        "wysokosc": 1853.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8956088,
+          49.2380329
+        ]
+      },
+      "properties": {
+        "nazwa": "Chuda Przełączka",
+        "wysokosc": 1850.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8349199,
+          49.2069618
+        ]
+      },
+      "properties": {
+        "nazwa": "Kotłowa Czubka",
+        "wysokosc": 1840.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7733092,
+          49.205542
+        ]
+      },
+      "properties": {
+        "nazwa": "Dziurawa Przełęcz/Deravá",
+        "wysokosc": 1836.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9714848,
+          49.2299577
+        ]
+      },
+      "properties": {
+        "nazwa": null,
+        "wysokosc": 1836.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8336342,
+          49.2221134
+        ]
+      },
+      "properties": {
+        "nazwa": "Suchy Wierch Ornaczański",
+        "wysokosc": 1832.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8355407,
+          49.240814
+        ]
+      },
+      "properties": {
+        "nazwa": "Kominiarski Wierch",
+        "wysokosc": 1829.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8334996,
+          49.220415
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnia Ornaczańska Przełęcz",
+        "wysokosc": 1825.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8073186,
+          49.210864
+        ]
+      },
+      "properties": {
+        "nazwa": "Dudowa Przełęcz",
+        "wysokosc": 1815.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8333879,
+          49.2050117
+        ]
+      },
+      "properties": {
+        "nazwa": "Siwa Przełęcz",
+        "wysokosc": 1812.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9616929,
+          49.2314715
+        ]
+      },
+      "properties": {
+        "nazwa": "Goryczkowa Przełęcz Świńska / Horičkovo sedlo Svinické",
+        "wysokosc": 1801.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8343543,
+          49.2157532
+        ]
+      },
+      "properties": {
+        "nazwa": "Ornaczańska Przełęcz",
+        "wysokosc": 1795.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8563005,
+          49.1962721
+        ]
+      },
+      "properties": {
+        "nazwa": "Pyszniańska Przełęcz / Pyšné sedlo",
+        "wysokosc": 1788.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8932075,
+          49.2295877
+        ]
+      },
+      "properties": {
+        "nazwa": "Kazalnica",
+        "wysokosc": 1767.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9337428,
+          49.2488557
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnia Kondracka Przełęcz",
+        "wysokosc": 1765.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0575189,
+          49.2164694
+        ]
+      },
+      "properties": {
+        "nazwa": "Świstowa Czuba",
+        "wysokosc": 1763.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8037262,
+          49.2191036
+        ]
+      },
+      "properties": {
+        "nazwa": "Trzydniowiański Wierch",
+        "wysokosc": 1758.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0576448,
+          49.2162116
+        ]
+      },
+      "properties": {
+        "nazwa": "Świstowy Przechód",
+        "wysokosc": 1755.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8072707,
+          49.21549
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz nad Szyją",
+        "wysokosc": 1754.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9323325,
+          49.2461997
+        ]
+      },
+      "properties": {
+        "nazwa": "Kondracka Przełęcz",
+        "wysokosc": 1725.0,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9047279,
+          49.2196689
+        ]
+      },
+      "properties": {
+        "nazwa": "Tomanovské sedlo / Tomanowa Przełęcz",
+        "wysokosc": 1686.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7666402,
+          49.2366407
+        ]
+      },
+      "properties": {
+        "nazwa": "Grześ / Lúčna",
+        "wysokosc": 1653.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9272591,
+          49.249022
+        ]
+      },
+      "properties": {
+        "nazwa": "Siodło",
+        "wysokosc": 1630.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7784434,
+          49.2453567
+        ]
+      },
+      "properties": {
+        "nazwa": "Jamborowy Wierch",
+        "wysokosc": 1565.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0032909,
+          49.2549125
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz między Kopami",
+        "wysokosc": 1499.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7887314,
+          49.2616215
+        ]
+      },
+      "properties": {
+        "nazwa": "Furkaska / Veľká Furkaska",
+        "wysokosc": 1491.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0765188,
+          49.2590286
+        ]
+      },
+      "properties": {
+        "nazwa": "Gęsia Szyja",
+        "wysokosc": 1489.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7904947,
+          49.2556794
+        ]
+      },
+      "properties": {
+        "nazwa": "Parzątczak",
+        "wysokosc": 1486.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0611722,
+          49.2641904
+        ]
+      },
+      "properties": {
+        "nazwa": "Ostry Wierch",
+        "wysokosc": 1475.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.003247,
+          49.2567333
+        ]
+      },
+      "properties": {
+        "nazwa": "Diabełek",
+        "wysokosc": 1470.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8867844,
+          49.2484377
+        ]
+      },
+      "properties": {
+        "nazwa": "Siodło za Piecem",
+        "wysokosc": 1465.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8363044,
+          49.2321746
+        ]
+      },
+      "properties": {
+        "nazwa": "Iwaniacka Przełęcz",
+        "wysokosc": 1459.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9154426,
+          49.2621551
+        ]
+      },
+      "properties": {
+        "nazwa": "Łysanki",
+        "wysokosc": 1446.7,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7776063,
+          49.2360501
+        ]
+      },
+      "properties": {
+        "nazwa": "Upalone",
+        "wysokosc": 1421.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0629533,
+          49.2682009
+        ]
+      },
+      "properties": {
+        "nazwa": "Zadnia Kopa Sołtysia",
+        "wysokosc": 1420.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91715,
+          49.2565523
+        ]
+      },
+      "properties": {
+        "nazwa": "Grzybowiec",
+        "wysokosc": 1417.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.788466,
+          49.2525319
+        ]
+      },
+      "properties": {
+        "nazwa": "Juraniowa Przełęcz / Príslop",
+        "wysokosc": 1382.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7762179,
+          49.2421488
+        ]
+      },
+      "properties": {
+        "nazwa": "Bobrowiecka Przełęcz / Bobrovecké sedlo",
+        "wysokosc": 1356.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0614329,
+          49.2706309
+        ]
+      },
+      "properties": {
+        "nazwa": "Średnia Sołtysia Przełęcz",
+        "wysokosc": 1335.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9635503,
+          49.2616531
+        ]
+      },
+      "properties": {
+        "nazwa": "Biała Czubka",
+        "wysokosc": 1333.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9623209,
+          49.2613612
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnia Przełęcz Białego",
+        "wysokosc": 1331.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0163039,
+          49.2716554
+        ]
+      },
+      "properties": {
+        "nazwa": "Wielki Kopieniec",
+        "wysokosc": 1328.0,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9159462,
+          49.2593951
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz w Grzybowcu",
+        "wysokosc": 1311.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8341203,
+          49.2555833
+        ]
+      },
+      "properties": {
+        "nazwa": "Kominiarska Przełęcz",
+        "wysokosc": 1307.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.964156,
+          49.2626883
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz Białego",
+        "wysokosc": 1305.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9425877,
+          49.2628067
+        ]
+      },
+      "properties": {
+        "nazwa": "Czerwona Przełęcz",
+        "wysokosc": 1301.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8319967,
+          49.2610427
+        ]
+      },
+      "properties": {
+        "nazwa": "Kuca",
+        "wysokosc": 1294.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.989459,
+          49.2764311
+        ]
+      },
+      "properties": {
+        "nazwa": "Nosal",
+        "wysokosc": 1205.7,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8784308,
+          49.2563337
+        ]
+      },
+      "properties": {
+        "nazwa": "Upłaziański Wierszyk",
+        "wysokosc": 1203.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9501619,
+          49.2637624
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełączka za Igłą",
+        "wysokosc": 1176.0,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8019062,
+          49.2705055
+        ]
+      },
+      "properties": {
+        "nazwa": "Koryciańska Czuba",
+        "wysokosc": 1161.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1165929,
+          49.3049833
+        ]
+      },
+      "properties": {
+        "nazwa": "Cyrla nad Białką",
+        "wysokosc": 1155.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8136274,
+          49.2752197
+        ]
+      },
+      "properties": {
+        "nazwa": "Mała Furkaska",
+        "wysokosc": 1132.0,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9914478,
+          49.2729371
+        ]
+      },
+      "properties": {
+        "nazwa": "Nosalowa Przełęcz",
+        "wysokosc": 1102.8,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.040079,
+          49.2267013
+        ]
+      },
+      "properties": {
+        "nazwa": "Buczynowe Siodło",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0369442,
+          49.227395
+        ]
+      },
+      "properties": {
+        "nazwa": "Buczynowy Karb",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0393783,
+          49.2269515
+        ]
+      },
+      "properties": {
+        "nazwa": "Budzowa Igła",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0394699,
+          49.2269298
+        ]
+      },
+      "properties": {
+        "nazwa": "Budzowa Przełączka",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8266664,
+          49.2013413
+        ]
+      },
+      "properties": {
+        "nazwa": "Gáborovo sedlo",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0426981,
+          49.1931325
+        ]
+      },
+      "properties": {
+        "nazwa": "Głaźne Wrótka / Krivé sedlo",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8655164,
+          49.2486138
+        ]
+      },
+      "properties": {
+        "nazwa": "Głucha Skała",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8326794,
+          49.2603095
+        ]
+      },
+      "properties": {
+        "nazwa": "Huciańskie Siodło",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8269114,
+          49.2616045
+        ]
+      },
+      "properties": {
+        "nazwa": "Klinowe Siodło",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8356489,
+          49.2097716
+        ]
+      },
+      "properties": {
+        "nazwa": "Kotłowe Siodło",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0279486,
+          49.2184851
+        ]
+      },
+      "properties": {
+        "nazwa": "Kozia Przełęcz Wyżnia",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0034824,
+          49.2516682
+        ]
+      },
+      "properties": {
+        "nazwa": "Magurska Przełęcz",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0572242,
+          49.1876365
+        ]
+      },
+      "properties": {
+        "nazwa": "Mięguszowiecki Przechód",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155344,
+          49.2227421
+        ]
+      },
+      "properties": {
+        "nazwa": "Mylna Strażnica",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0155189,
+          49.2227833
+        ]
+      },
+      "properties": {
+        "nazwa": "Niżnie Mylne Wrótka",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8779892,
+          49.2696484
+        ]
+      },
+      "properties": {
+        "nazwa": "Niżnie Stanikowe Siodło",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0354201,
+          49.2272111
+        ]
+      },
+      "properties": {
+        "nazwa": "Orla Przełączka Niżnia",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0350553,
+          49.227106
+        ]
+      },
+      "properties": {
+        "nazwa": "Orla Przełączka Wyżnia",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0438219,
+          49.1928668
+        ]
+      },
+      "properties": {
+        "nazwa": "Piargová veža / Głaźna Czuba",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0457059,
+          49.2279673
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełączka pod Ptakiem",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8510774,
+          49.24666
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz ku Stawku",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7896394,
+          49.2606481
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz pod Furkaską",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0327859,
+          49.2238883
+        ]
+      },
+      "properties": {
+        "nazwa": "Sieczkowa Szczerba",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0331787,
+          49.226351
+        ]
+      },
+      "properties": {
+        "nazwa": "Skrajna Sieczkowa Przełączka",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.033007,
+          49.2237921
+        ]
+      },
+      "properties": {
+        "nazwa": "Skrajna Sieczkowa Turnia",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9006672,
+          49.2339518
+        ]
+      },
+      "properties": {
+        "nazwa": "Szerokie Siodło",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0447103,
+          49.1966364
+        ]
+      },
+      "properties": {
+        "nazwa": "Szpiglasowa Kopka",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9893792,
+          49.2269605
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnie Liliowe",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0330443,
+          49.2233881
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnie Sieczkowe Siodełko",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0329508,
+          49.2229305
+        ]
+      },
+      "properties": {
+        "nazwa": "Zadnia Sieczkowa Przełączka",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0624329,
+          49.2670822
+        ]
+      },
+      "properties": {
+        "nazwa": "Zadnia Sołtysia Przełęcz",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0201717,
+          49.2188423
+        ]
+      },
+      "properties": {
+        "nazwa": "Zmarzła Przełączka Wyżnia",
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0203405,
+          49.2189274
+        ]
+      },
+      "properties": {
+        "nazwa": "Zmarzłe Czuby",
+        "wysokosc": null,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0881594,
+          49.1798841
+        ]
+      },
+      "properties": {
+        "nazwa": null,
+        "wysokosc": null,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": null,
+        "instagram": null
+      }
+    }
+  ]
+}
