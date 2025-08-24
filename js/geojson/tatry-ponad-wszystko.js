@@ -33,11 +33,19 @@ fetch('data/tatry-ponad-wszystko.geojson?v=' + Date.now())
             },
             onEachFeature: function(feature, layer) {
                 var props = feature.properties;
-                var popupContent = `<b>${props.nazwa}</b><br>` +
-                    `Wysokość: ${props.wysokosc} m n.p.m.<br>` +
-                    (props.zdobyty ? `Status: <b>Zdobyty</b><br>Data: ${props.data_zdobycia}<br>` +
-                    (props.instagram ? `<a href="${props.instagram}" target="_blank">Instagram</a>` : "") :
-                    `Status: <b>Nie zdobyty</b>`);
+                var iconUrl = layer.options.icon.options.iconUrl;
+                var popupContent = `
+                    <div style="display: flex; align-items: center;">
+                        <img src="${iconUrl}" style="width:100px;height:100px;margin-right:15px;">
+                        <div>
+                            <b>${props.nazwa}</b><br>
+                            Wysokość: ${props.wysokosc} m n.p.m.<br>
+                            ${props.zdobyty ? `Status: <b>Zdobyty</b><br>Data: ${props.data_zdobycia}<br>` +
+                            (props.instagram ? `<a href="${props.instagram}" target="_blank">Instagram</a>` : "")
+                            : `Status: <b>Nie zdobyty</b>`}
+                        </div>
+                    </div>
+                `;
                 layer.bindPopup(popupContent);
             }
         })
