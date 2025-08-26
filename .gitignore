@@ -1,0 +1,9 @@
+.env
+__pycache__/
+app.py
+app1.py
+application.py
+converter.py
+hover_button.py
+pyqt.py
+token
