@@ -7,7 +7,7 @@ var mapyczWinter = L.tileLayer(`https://api.mapy.cz/v1/maptiles/winter/256/{z}/{
     maxZoom: 20,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
-mapyczWinter.addTo(map);
+//mapyczWinter.addTo(map);
 
 var mapyczTourist = L.tileLayer(`https://api.mapy.cz/v1/maptiles/outdoor/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
     minZoom: 0,
@@ -21,14 +21,14 @@ var mapyczSatelite = L.tileLayer(`https://api.mapy.cz/v1/maptiles/aerial/256/{z}
     maxZoom: 20,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
-mapyczSatelite.addTo(map);
+//mapyczSatelite.addTo(map);
 
 var mapyczBorder = L.tileLayer(`https://api.mapy.cz/v1/maptiles/names-overlay/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
     minZoom: 8,
     maxZoom: 20,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
-mapyczBorder.addTo(map);
+//mapyczBorder.addTo(map);
 
 const LogoControl = L.Control.extend({
     options: {
@@ -56,13 +56,13 @@ var wmsOrto = L.tileLayer.wms('https://mapy.geoportal.gov.pl/wss/service/PZGIK/O
     version: '1.3.0',
     attribution: '&copy; Główny Urząd Geodezji i Kartografii (GUGiK)'
 });
-wmsOrto.addTo(map);
+//wmsOrto.addTo(map);
 
 var osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png?{foo}', {
     foo: 'bar',
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 });
-osm.addTo(map);
+//osm.addTo(map);
         
 var peaks = L.tileLayer.wms('https://mapy.geoportal.gov.pl/wss/service/img/guest/WMS/Szczyty?', {
     minZoom: 10,
@@ -93,7 +93,7 @@ var googleSatelite = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z
     subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
     attribution: '&copy; Google Maps'
 });
-googleSatelite.addTo(map);
+//googleSatelite.addTo(map);
 
 L.control.scale().addTo(map);
 
