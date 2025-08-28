@@ -54,30 +54,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0096116,
-          49.2193742
-        ]
-      },
-      "properties": {
-        "nazwa": "Świnicka Kopa",
-        "wysokosc": 2298,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           20.0094907,
           49.2193522
         ]
@@ -390,54 +366,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0325126,
-          49.2213441
-        ]
-      },
-      "properties": {
-        "nazwa": "Czarny Mniszek",
-        "wysokosc": 2178,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0357587,
-          49.2273331
-        ]
-      },
-      "properties": {
-        "nazwa": "Orla Baszta",
-        "wysokosc": 2177,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           20.0401058,
           49.1972908
         ]
@@ -638,30 +566,6 @@
         "nazwa": "Graniacka Przełęcz",
         "wysokosc": 2145,
         "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0464117,
-          49.2284705
-        ]
-      },
-      "properties": {
-        "nazwa": "Kopa nad Krzyżnem",
-        "wysokosc": 2135,
-        "rodzaj": "szczyt",
         "zdobyty": false,
         "data": null,
         "zima": false,
@@ -1206,30 +1110,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.9403201,
-          49.2336471
-        ]
-      },
-      "properties": {
-        "nazwa": "Suchy Wierch Kondracki",
-        "wysokosc": 1893,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           19.7584624,
           49.215958
         ]
@@ -1261,30 +1141,6 @@
       "properties": {
         "nazwa": "Świstowa Kopa",
         "wysokosc": 1875,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9661663,
-          49.2312889
-        ]
-      },
-      "properties": {
-        "nazwa": "Pośredni Goryczkowy Wierch",
-        "wysokosc": 1874,
         "rodzaj": "szczyt",
         "zdobyty": false,
         "data": null,
@@ -1406,7 +1262,7 @@
         "nazwa": "Zawracie",
         "wysokosc": 1863,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -1502,7 +1358,7 @@
         "nazwa": "Kotłowa Czubka",
         "wysokosc": 1840,
         "rodzaj": "szczyt",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -1550,7 +1406,7 @@
         "nazwa": "Wyżnia Ornaczańska Przełęcz",
         "wysokosc": 1825,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -1598,7 +1454,7 @@
         "nazwa": "Siwa Przełęcz",
         "wysokosc": 1812,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -1646,7 +1502,7 @@
         "nazwa": "Ornaczańska Przełęcz",
         "wysokosc": 1795,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -1694,7 +1550,7 @@
         "nazwa": "Kazalnica",
         "wysokosc": 1767,
         "rodzaj": "szczyt",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -1718,30 +1574,6 @@
         "nazwa": "Wyżnia Kondracka Przełęcz",
         "wysokosc": 1765,
         "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0575189,
-          49.2164694
-        ]
-      },
-      "properties": {
-        "nazwa": "Świstowa Czuba",
-        "wysokosc": 1763,
-        "rodzaj": "szczyt",
         "zdobyty": false,
         "data": null,
         "zima": false,
@@ -2006,7 +1838,7 @@
         "nazwa": "Iwaniacka Przełęcz",
         "wysokosc": 1459,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -2294,7 +2126,7 @@
         "nazwa": "Upłaziański Wierszyk",
         "wysokosc": 1203,
         "rodzaj": "szczyt",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -2406,30 +2238,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0369442,
-          49.227395
-        ]
-      },
-      "properties": {
-        "nazwa": "Buczynowy Karb",
-        "wysokosc": 2115,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           20.0393783,
           49.2269515
         ]
@@ -2486,7 +2294,7 @@
         "nazwa": "Kotłowe Siodło",
         "wysokosc": 1810,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -2533,30 +2341,6 @@
       "properties": {
         "nazwa": "Orla Przełączka Niżnia",
         "wysokosc": 2150,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0350553,
-          49.227106
-        ]
-      },
-      "properties": {
-        "nazwa": "Orla Przełączka Wyżnia",
-        "wysokosc": 2155,
         "rodzaj": "przelecz",
         "zdobyty": false,
         "data": null,
@@ -2702,7 +2486,7 @@
         "nazwa": "Szpiglasowa Kopka",
         "wysokosc": 1983,
         "rodzaj": "szczyt",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -2749,30 +2533,6 @@
       "properties": {
         "nazwa": "Wyżnie Sieczkowe Siodełko",
         "wysokosc": 2215,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram": null,
-        "Unnamed: 10": null,
-        "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0329508,
-          49.2229305
-        ]
-      },
-      "properties": {
-        "nazwa": "Zadnia Sieczkowa Przełączka",
-        "wysokosc": 2194,
         "rodzaj": "przelecz",
         "zdobyty": false,
         "data": null,
@@ -2870,7 +2630,7 @@
         "nazwa": "Łuczniańska Przełęcz",
         "wysokosc": 1602,
         "rodzaj": "przelecz",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
@@ -3285,8 +3045,8 @@
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": "Bez wysokosci",
-        "Unnamed: 13": 32.0
+        "Unnamed: 12": null,
+        "Unnamed: 13": null
       }
     },
     {
@@ -3333,8 +3093,8 @@
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": "Usuniete",
-        "Unnamed: 13": 61.0
+        "Unnamed: 12": null,
+        "Unnamed: 13": null
       }
     },
     {
@@ -3357,8 +3117,8 @@
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": "Dodane",
-        "Unnamed: 13": 41.0
+        "Unnamed: 12": null,
+        "Unnamed: 13": null
       }
     },
     {
@@ -3525,8 +3285,8 @@
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
+        "Unnamed: 12": "Bez wysokosci",
+        "Unnamed: 13": 32.0
       }
     },
     {
@@ -3573,8 +3333,8 @@
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
+        "Unnamed: 12": "Usuniete",
+        "Unnamed: 13": 71.0
       }
     },
     {
@@ -3590,15 +3350,15 @@
         "nazwa": "Suchy Wierch Ornaczański",
         "wysokosc": 1832,
         "rodzaj": "szczyt",
-        "zdobyty": false,
+        "zdobyty": true,
         "data": null,
         "zima": false,
         "data_zima": null,
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
+        "Unnamed: 12": "Dodane",
+        "Unnamed: 13": 41.0
       }
     },
     {
@@ -3645,8 +3405,8 @@
         "instagram": null,
         "Unnamed: 10": null,
         "Unnamed: 11": null,
-        "Unnamed: 12": null,
-        "Unnamed: 13": null
+        "Unnamed: 12": "Selekcja",
+        "Unnamed: 13": 10.0
       }
     },
     {
