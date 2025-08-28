@@ -42,13 +42,13 @@ function updateMode(mode) {
 
 var mode = "summer";
 
-var modeControl = L.control({position: 'topright'});
+var modeControl = L.control({position: 'topleft'});
 
 modeControl.onAdd = function(map) {
     var div = L.DomUtil.create('div', 'mode-toggle');
 
     div.innerHTML = `
-        <div class="mode-label">Pora roku</div>
+        <div class="mode-label">Sezon</div>
         <label class="switch">
             <input type="checkbox" id="modeCheckbox">
             <span class="slider">

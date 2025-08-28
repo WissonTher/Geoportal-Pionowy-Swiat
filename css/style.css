@@ -8,8 +8,12 @@ html, body, #map {
 .leaflet-control-search {
     position: absolute;
     top: -75px;
-    left: 50px;
+    left: 110px;
     z-index: 1000;
+}
+
+.leaflet-control-search .search-label {
+    color: #4d4d4d;
 }
 
 .search-label {
@@ -21,8 +25,11 @@ html, body, #map {
 }
 
 .mode-toggle {
+    position: absolute;
+    left: 40px;
+    z-index: 1000;
     background: white;
-    padding: 10px;
+    padding: 7px;
     border-radius: 6px;
     box-shadow: 0 1px 4px rgba(0,0,0,0.3);
     display: flex;
@@ -32,11 +39,11 @@ html, body, #map {
 
 .mode-label {
     font-weight: bold;
-    font-size: 11px;
+    font-size: 12px;
     margin-bottom: 2px;
     text-align: center;
     font-family: 'Helvetica Neue', sans-serif;
-    color: #333;
+    color: #4d4d4d;
 }
 
 .switch {
