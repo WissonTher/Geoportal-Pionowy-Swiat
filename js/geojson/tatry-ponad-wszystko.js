@@ -16,7 +16,7 @@ fetch('data/tatry-ponad-wszystko.geojson?v=' + Date.now())
                             <b>${props.nazwa}</b><br>
                             Wysokość: ${props.wysokosc} m n.p.m.<br>
                             ${props.zdobyty 
-                                ? `Status: <b>Zdobyty</b><br>Data: ${props.data_zdobycia || props.data}<br>` +
+                                ? `Status: <b>Zdobyty</b><br>Data: ${props.data}<br>` +
                                 (props.instagram ? `<a href="${props.instagram}" target="_blank">Instagram</a>` : "")
                                 : `Status: <b>Nie zdobyty</b>`}
                         </div>
@@ -35,7 +35,7 @@ fetch('data/tatry-ponad-wszystko.geojson?v=' + Date.now())
                             Wysokość: ${props.wysokosc} m n.p.m.<br>
                             ${props.zima 
                                 ? `Status: <b>Zdobyty zimą</b><br>Data: ${props.data_zima}<br>` +
-                                (props.instagram ? `<a href="${props.instagram}" target="_blank">Instagram</a>` : "")
+                                (props.instagram_zima ? `<a href="${props.instagram_zima}" target="_blank">Instagram</a>` : "")
                                 : `Status: <b>Nie zdobyty zimą</b>`}
                         </div>
                     </div>
