@@ -11,7 +11,7 @@ fetch('data/tatry-ponad-wszystko.geojson?v=' + Date.now())
 
                 let summerPopup = `
                     <div style="display: flex; align-items: center;">
-                        <img src="${summerIcon.options.iconUrl}" style="width:100px;height:100px;margin-right:15px;">
+                        <img src="${summerIcon.options.iconUrl}" style="width:75px;height:75px;margin-right:15px;">
                         <div>
                             <b>${props.nazwa}</b><br>
                             Wysokość: ${props.wysokosc} m n.p.m.<br>
@@ -29,7 +29,7 @@ fetch('data/tatry-ponad-wszystko.geojson?v=' + Date.now())
 
                 let winterPopup = `
                     <div style="display: flex; align-items: center;">
-                        <img src="${winterIcon.options.iconUrl}" style="width:100px;height:100px;margin-right:15px;">
+                        <img src="${winterIcon.options.iconUrl}" style="width:75px;height:75px;margin-right:15px;">
                         <div>
                             <b>${props.nazwa}</b><br>
                             Wysokość: ${props.wysokosc} m n.p.m.<br>

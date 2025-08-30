@@ -147,10 +147,17 @@ var headquater = {
 
 var headquarterLayer = L.geoJSON(headquater, {
     onEachFeature: function (feature, layer) {
-        var popupContent = `<b>${feature.properties.name}</b><br>` +
-        `${feature.properties.school} ` + `(sala ${feature.properties.classroom})<br>` +
-        `${feature.properties.address}<br>` +
-        `${feature.properties.postalcity}<br>` 
+        var popupContent = `
+            <div style="display: flex; align-items: center;">
+                <img src="${headquaterIcon.options.iconUrl}" style="width:50px;height:50px;margin-right:15px;">
+                <div>
+                    <b>${feature.properties.name}</b><br>
+                    ${feature.properties.school} (sala ${feature.properties.classroom})<br>
+                    ${feature.properties.address}<br>
+                    ${feature.properties.postalcity}<br>
+                </div>
+            </div>
+        `; 
         layer.bindPopup(popupContent);
     },
     pointToLayer: function (feature, latlng) {
