@@ -1,31 +1,34 @@
+const MAX_ZOOM = 18
+const MIN_ZOOM = 6
+
 var map = L.map('map', {
-    maxZoom: 20 
+    maxZoom: MAX_ZOOM
 }).setView([49.80, 19.19], 10);
 
 var mapyczWinter = L.tileLayer(`https://api.mapy.cz/v1/maptiles/winter/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
-    minZoom: 0,
-    maxZoom: 20,
+    minZoom: MIN_ZOOM,
+    maxZoom: MAX_ZOOM,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
 //mapyczWinter.addTo(map);
 
 var mapyczTourist = L.tileLayer(`https://api.mapy.cz/v1/maptiles/outdoor/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
-    minZoom: 0,
-    maxZoom: 20,
+    minZoom: MIN_ZOOM,
+    maxZoom: MAX_ZOOM,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
 mapyczTourist.addTo(map);
 
 var mapyczSatelite = L.tileLayer(`https://api.mapy.cz/v1/maptiles/aerial/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
-    minZoom: 0,
-    maxZoom: 20,
+    minZoom: MIN_ZOOM,
+    maxZoom: MAX_ZOOM,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
 //mapyczSatelite.addTo(map);
 
 var mapyczBorder = L.tileLayer(`https://api.mapy.cz/v1/maptiles/names-overlay/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
-    minZoom: 8,
-    maxZoom: 20,
+    minZoom: MIN_ZOOM+2,
+    maxZoom: MAX_ZOOM,
     attribution: '<a href="https://api.mapy.cz/copyright" target="_blank">&copy; Seznam.cz a.s. a další</a>',
 });
 //mapyczBorder.addTo(map);
@@ -89,7 +92,7 @@ var parkiKrajobrazowe = L.tileLayer.wms("http://sdi.gdos.gov.pl/wms", {
 });
 
 var googleSatelite = L.tileLayer('https://{s}.google.com/vt/lyrs=m&x={x}&y={y}&z={z}', {
-    maxZoom: 20,
+    maxZoom: MAX_ZOOM,
     subdomains: ['mt0', 'mt1', 'mt2', 'mt3'],
     attribution: '&copy; Google Maps'
 });
