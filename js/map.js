@@ -1,45 +1,5 @@
 var layersControl = L.control.groupedLayers(baseLayers, groupedOverlays).addTo(map);
 
-function switchBaseLayer(mode) {
-    map.removeLayer(mapyczTourist);
-    map.removeLayer(mapyczWinter);
-    map.removeLayer(mapyczSatelite);
-    map.removeLayer(mapyczBorder);
-    map.removeLayer(wmsOrto);
-    map.removeLayer(osm);
-    map.removeLayer(googleSatelite);
-
-    if (mode === 'summer') {
-        map.addLayer(mapyczTourist);
-    } else if (mode === 'winter') {
-        map.addLayer(mapyczWinter);
-    }
-}
-
-function updateMode(mode) {
-    switchBaseLayer(mode);
-
-    allMarkers.eachLayer(marker => {
-        let options = marker.options[mode];
-
-        marker.setIcon(options.icon);
-        marker.bindPopup(options.popup);
-
-        zdobyteTatraLayer.removeLayer(marker);
-        niezdobyteTatraLayer.removeLayer(marker);
-
-        if (mode === 'summer' && marker.options.summerStatus) {
-            zdobyteTatraLayer.addLayer(marker);
-        } else if (mode === 'summer') {
-            niezdobyteTatraLayer.addLayer(marker);
-        } else if (mode === 'winter' && marker.options.winterStatus) {
-            zdobyteTatraLayer.addLayer(marker);
-        } else {
-            niezdobyteTatraLayer.addLayer(marker);
-        }
-    });
-}
-
 var mode = "summer";
 
 var modeControl = L.control({position: 'topleft'});
@@ -76,7 +36,6 @@ modeControl.onAdd = function(map) {
 modeControl.addTo(map);
 updateMode(mode);
 
-
 map.on('overlayadd', function(e) {
     if (e.layer === zdobyteTatraLayer || e.layer === niezdobyteTatraLayer) {
         var layerBounds = allMarkers.getBounds();
@@ -87,19 +46,6 @@ map.on('overlayadd', function(e) {
         }
     }
 });
-
-function updateLayerVisibility() {
-    var zoom = map.getZoom();
-    var visible = zoom >= 11;
-
-    zdobyteTatraLayer.eachLayer(function(layer) {
-        if (layer._icon) layer._icon.style.display = visible ? '' : 'none';
-    });
-
-    niezdobyteTatraLayer.eachLayer(function(layer) {
-        if (layer._icon) layer._icon.style.display = visible ? '' : 'none';
-    });
-}
 
 map.on('zoomend', updateLayerVisibility);
 updateLayerVisibility();
