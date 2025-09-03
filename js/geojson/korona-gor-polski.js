@@ -6,11 +6,15 @@ fetch('data/korona-gor-polski.geojson?v=' + Date.now())
                 var icon = feature.properties.zdobyty ? greenIcon : redIcon;
                 var marker = L.marker(latlng, { icon: icon });
 
+                marker.feature = feature;
+                marker.feature.source = "Korona Gór Polski";
+
                 if (feature.properties.zdobyty) {
                     zdobyteLayer.addLayer(marker);
                 } else {
                     niezdobyteLayer.addLayer(marker);
                 }
+                searchLayer.addLayer(marker);
 
                 return marker;
             },
@@ -36,23 +40,5 @@ fetch('data/korona-gor-polski.geojson?v=' + Date.now())
         });
         zdobyteLayer.addTo(map);
         niezdobyteLayer.addTo(map);
-
-        var searchControl = new L.Control.Search({
-            layer: kgpGeojson,
-            propertyName: 'nazwa',
-            initial: false,
-            zoom: 15,
-            marker: false,
-            moveToLaction: function(latlng, title, map) {
-                map.setView(latlng, 12);
-            }
-        })
-        map.addControl(searchControl);
-
-        var searchContainer = document.querySelector('.leaflet-control-search');
-        var searchLabel = document.createElement('label');
-        searchLabel.textContent = "Wyszukaj szczyt KGP:";
-        searchLabel.classList.add('search-label');
-        searchContainer.prepend(searchLabel);
     })
     .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));

@@ -49,12 +49,17 @@ fetch('data/tatry-ponad-wszystko.geojson?v=' + Date.now())
 
                 marker.options.summerStatus = props.zdobyty;
                 marker.options.winterStatus = props.zima;
+                
+                marker.feature = feature;
+                marker.feature.source = "Tatry Ponad Wszystko"; 
 
                 allMarkers.addLayer(marker);
+                searchLayer.addLayer(marker);
 
                 return marker;
             }
         });
-
-        updateMode('summer');
+        zdobyteTatraLayer.addTo(map);
+        niezdobyteTatraLayer.addTo(map);
+        updateMode("summer")
     });

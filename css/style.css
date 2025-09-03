@@ -20,8 +20,8 @@ html, body, #map {
     font-weight: bold;
     display: block;
     margin-top: 10px;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
 }
 
 .mode-toggle {
@@ -88,4 +88,13 @@ input:checked + .slider {
 input:checked + .slider .icon {
   transform: translateX(24px);
   color: #fff;
+}
+
+.source-badge {
+    padding: 0px 3px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    display: inline-block;
+    margin-top: 2px;
+    color: white;
 }

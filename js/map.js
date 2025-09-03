@@ -36,16 +36,21 @@ modeControl.onAdd = function(map) {
 modeControl.addTo(map);
 updateMode(mode);
 
+let firstLaunch = false;
+
 map.on('overlayadd', function(e) {
+    if (!firstLaunch) return;
+
     if (e.layer === zdobyteTatraLayer || e.layer === niezdobyteTatraLayer) {
         var layerBounds = allMarkers.getBounds();
-        var mapBounds = map.getBounds();
-
-        if (!layerBounds.contains(mapBounds)) {
+        if (!layerBounds.contains(map.getBounds())) {
             map.fitBounds(layerBounds);
         }
     }
 });
+setTimeout(() => {
+    firstLaunch = true;
+}, 500);
 
 map.on('zoomend', updateLayerVisibility);
 updateLayerVisibility();
