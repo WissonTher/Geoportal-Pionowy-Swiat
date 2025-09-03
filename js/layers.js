@@ -3,7 +3,7 @@ const MIN_ZOOM = 6
 
 var map = L.map('map', {
     maxZoom: MAX_ZOOM
-}).setView([49.80, 19.19], 10);
+}).setView([49.818073, 19.041126], 11);
 
 var mapyczWinter = L.tileLayer(`https://api.mapy.cz/v1/maptiles/winter/256/{z}/{x}/{y}?apikey=${API_KEY}`, {
     minZoom: MIN_ZOOM,
@@ -159,6 +159,7 @@ var headquarterLayer = L.geoJSON(headquater, {
             </div>
         `; 
         layer.bindPopup(popupContent);
+        layer.openPopup();
     },
     pointToLayer: function (feature, latlng) {
         return L.marker(latlng, {
@@ -166,6 +167,11 @@ var headquarterLayer = L.geoJSON(headquater, {
     });
 }
 }).addTo(map);
+
+setTimeout(() => {
+    var firstMarker = headquarterLayer.getLayers()[0];
+    if (firstMarker) firstMarker.openPopup();
+}, 50);
 
 var groupedOverlays = {
     "Korona Gór Polski": {
