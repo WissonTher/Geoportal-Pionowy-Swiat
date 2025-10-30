@@ -15,11 +15,32 @@
         "wysokosc": 2499,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0651276,
+          49.1837052
+        ]
+      },
+      "properties": {
+        "nazwa": "Mięguszowiecka Przełęcz pod Chłopkiem",
+        "wysokosc": 2307,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -39,8 +60,8 @@
         "data": "14 czerwca 2025",
         "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -60,8 +81,8 @@
         "data": "14 czerwca 2025",
         "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -81,8 +102,8 @@
         "data": "12 października 2025",
         "instagram": "https://www.instagram.com/p/DBDIFFLosJf/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -99,11 +120,11 @@
         "wysokosc": 2265,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -120,11 +141,11 @@
         "wysokosc": 2263,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -141,11 +162,11 @@
         "wysokosc": 2256,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -162,11 +183,11 @@
         "wysokosc": 2242,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -186,8 +207,29 @@
         "data": "21 września 2024",
         "instagram": "https://www.instagram.com/p/DANad59sTbf/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0279486,
+          49.2184851
+        ]
+      },
+      "properties": {
+        "nazwa": "Kozia Przełęcz Wyżnia",
+        "wysokosc": 2240,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -204,11 +246,11 @@
         "wysokosc": 2239,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -225,11 +267,11 @@
         "wysokosc": 2234,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -246,11 +288,11 @@
         "wysokosc": 2228,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -267,11 +309,11 @@
         "wysokosc": 2226,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -288,11 +330,32 @@
         "wysokosc": 2225,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.033007,
+          49.2237921
+        ]
+      },
+      "properties": {
+        "nazwa": "Skrajna Sieczkowa Turnia",
+        "wysokosc": 2220,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -309,11 +372,116 @@
         "wysokosc": 2218,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0330443,
+          49.2233881
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnie Sieczkowe Siodełko",
+        "wysokosc": 2215,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0327859,
+          49.2238883
+        ]
+      },
+      "properties": {
+        "nazwa": "Sieczkowa Szczerba",
+        "wysokosc": 2210,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0201717,
+          49.2188423
+        ]
+      },
+      "properties": {
+        "nazwa": "Zmarzła Przełączka Wyżnia",
+        "wysokosc": 2201,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0331787,
+          49.226351
+        ]
+      },
+      "properties": {
+        "nazwa": "Skrajna Sieczkowa Przełączka",
+        "wysokosc": 2200,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8199409,
+          49.199371
+        ]
+      },
+      "properties": {
+        "nazwa": "Starorobociański Wierch",
+        "wysokosc": 2176,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -333,8 +501,8 @@
         "data": "7 października 2023",
         "instagram": "https://www.instagram.com/p/CyJO2bDs_6O/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -351,11 +519,11 @@
         "wysokosc": 2172,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -372,11 +540,11 @@
         "wysokosc": 2159,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -393,11 +561,11 @@
         "wysokosc": 2159,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -417,8 +585,8 @@
         "data": "21 października 2023",
         "instagram": "https://www.instagram.com/p/CysYoCrsTEb/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -435,11 +603,11 @@
         "wysokosc": 2158,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -456,11 +624,11 @@
         "wysokosc": 2157,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -477,11 +645,32 @@
         "wysokosc": 2155,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0354201,
+          49.2272111
+        ]
+      },
+      "properties": {
+        "nazwa": "Orla Przełączka Niżnia",
+        "wysokosc": 2150,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -498,11 +687,53 @@
         "wysokosc": 2145,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7949966,
+          49.1984157
+        ]
+      },
+      "properties": {
+        "nazwa": "Jarząbczy Wierch",
+        "wysokosc": 2137,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0393783,
+          49.2269515
+        ]
+      },
+      "properties": {
+        "nazwa": "Budzowa Igła",
+        "wysokosc": 2130,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -519,11 +750,53 @@
         "wysokosc": 2126,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.040079,
+          49.2267013
+        ]
+      },
+      "properties": {
+        "nazwa": "Buczynowe Siodło",
+        "wysokosc": 2125,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0394699,
+          49.2269298
+        ]
+      },
+      "properties": {
+        "nazwa": "Budzowa Przełączka",
+        "wysokosc": 2125,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -540,11 +813,32 @@
         "wysokosc": 2123,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9094918,
+          49.2316647
+        ]
+      },
+      "properties": {
+        "nazwa": "Krzesanica",
+        "wysokosc": 2122,
+        "rodzaj": "szczyt",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -561,11 +855,11 @@
         "wysokosc": 2112,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -585,8 +879,8 @@
         "data": "7 października 2023",
         "instagram": "https://www.instagram.com/p/CyJO2bDs_6O/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -603,11 +897,32 @@
         "wysokosc": 2105,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0457059,
+          49.2279673
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełączka pod Ptakiem",
+        "wysokosc": 2105,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -624,11 +939,11 @@
         "wysokosc": 2096,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -645,11 +960,74 @@
         "wysokosc": 2096,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9006672,
+          49.2339518
+        ]
+      },
+      "properties": {
+        "nazwa": "Szerokie Siodło",
+        "wysokosc": 2096,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9992161,
+          49.2223005
+        ]
+      },
+      "properties": {
+        "nazwa": "Skrajna Przełęcz",
+        "wysokosc": 2071,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "14 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9057683,
+          49.2309602
+        ]
+      },
+      "properties": {
+        "nazwa": "Mułowa Przełęcz",
+        "wysokosc": 2067,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -669,8 +1047,29 @@
         "data": "11 maja 2024",
         "instagram": "https://www.instagram.com/p/C62qsshoOcD/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0038625,
+          49.220805
+        ]
+      },
+      "properties": {
+        "nazwa": "Świnicka Przełęcz",
+        "wysokosc": 2051,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "14 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -687,11 +1086,11 @@
         "wysokosc": 2037,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -708,11 +1107,11 @@
         "wysokosc": 2027,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -729,11 +1128,11 @@
         "wysokosc": 2026,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -750,11 +1149,11 @@
         "wysokosc": 2022,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -795,8 +1194,8 @@
         "data": "17 czerwca 2023",
         "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -816,8 +1215,29 @@
         "data": "30 marca 2025",
         "instagram": "https://www.instagram.com/p/DH1cBSrsVW7/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0125623,
+          49.2079436
+        ]
+      },
+      "properties": {
+        "nazwa": "Gładka Przełęcz",
+        "wysokosc": 1994,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -846,6 +1266,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          20.0447103,
+          49.1966364
+        ]
+      },
+      "properties": {
+        "nazwa": "Szpiglasowa Kopka",
+        "wysokosc": 1983,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "7 października 2023",
+        "instagram": "https://www.instagram.com/p/CyJO2bDs_6O/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.8295433,
           49.2016538
         ]
@@ -855,11 +1296,53 @@
         "wysokosc": 1965,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9893792,
+          49.2269605
+        ]
+      },
+      "properties": {
+        "nazwa": "Wyżnie Liliowe",
+        "wysokosc": 1965,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "14 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8108156,
+          49.2042173
+        ]
+      },
+      "properties": {
+        "nazwa": "Starorobociańska Przełęcz",
+        "wysokosc": 1965,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -876,11 +1359,53 @@
         "wysokosc": 1955,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8369454,
+          49.196307
+        ]
+      },
+      "properties": {
+        "nazwa": "Banista Przełączka",
+        "wysokosc": 1953,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9913377,
+          49.2255512
+        ]
+      },
+      "properties": {
+        "nazwa": "Liliowe",
+        "wysokosc": 1952,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "14 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -909,6 +1434,48 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          19.8396412,
+          49.1959626
+        ]
+      },
+      "properties": {
+        "nazwa": "Bystry Karb",
+        "wysokosc": 1946,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0272207,
+          49.2221894
+        ]
+      },
+      "properties": {
+        "nazwa": "Kozia Dolinka",
+        "wysokosc": 1940,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "21 września 2024",
+        "instagram": "https://www.instagram.com/p/DANad59sTbf/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.8266377,
           49.2013151
         ]
@@ -918,11 +1485,32 @@
         "wysokosc": 1938,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9283693,
+          49.2353128
+        ]
+      },
+      "properties": {
+        "nazwa": "Małołącka Przełęcz",
+        "wysokosc": 1924,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -939,11 +1527,11 @@
         "wysokosc": 1896,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -963,8 +1551,8 @@
         "data": "15 czerwca 2025",
         "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -984,8 +1572,8 @@
         "data": "11 maja 2024",
         "instagram": "https://www.instagram.com/p/C62qsshoOcD/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1001,12 +1589,12 @@
         "nazwa": "Świstowa Kopa",
         "wysokosc": 1875,
         "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "zdobyty": true,
+        "data": "19 października 2025",
+        "instagram": "https://www.instagram.com/p/DQBFGR3iPqi/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1022,12 +1610,12 @@
         "nazwa": "Świstowe Siodło",
         "wysokosc": 1870,
         "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "zdobyty": true,
+        "data": "19 października",
+        "instagram": "https://www.instagram.com/p/DQBFGR3iPqi/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1047,8 +1635,8 @@
         "data": "3 listopada 2024",
         "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1065,11 +1653,11 @@
         "wysokosc": 1866,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1089,8 +1677,8 @@
         "data": "17 czerwca 2023",
         "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1110,8 +1698,8 @@
         "data": "11 maja 2024",
         "instagram": "https://www.instagram.com/p/C62qsshoOcD/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1131,8 +1719,8 @@
         "data": "3 listopada 2024",
         "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1149,11 +1737,11 @@
         "wysokosc": 1853,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1173,8 +1761,29 @@
         "data": "29 września 2024",
         "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9545422,
+          49.2322321
+        ]
+      },
+      "properties": {
+        "nazwa": "Wysokie Wrótka",
+        "wysokosc": 1847,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1194,8 +1803,8 @@
         "data": "3 listopada 2024",
         "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1212,11 +1821,53 @@
         "wysokosc": 1836,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8336342,
+          49.2221134
+        ]
+      },
+      "properties": {
+        "nazwa": "Suchy Wierch Ornaczański",
+        "wysokosc": 1832,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "3 listopada 2024",
+        "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7871452,
+          49.1991878
+        ]
+      },
+      "properties": {
+        "nazwa": "Niska Przełęcz",
+        "wysokosc": 1831,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1236,8 +1887,29 @@
         "data": "3 listopada 2024",
         "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9692441,
+          49.2303687
+        ]
+      },
+      "properties": {
+        "nazwa": "Nad Zakosy",
+        "wysokosc": 1816,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1257,8 +1929,8 @@
         "data": "30 marca 2025",
         "instagram": "https://www.instagram.com/p/DH1cBSrsVW7/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1278,8 +1950,50 @@
         "data": "3 listopada 2024",
         "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8356489,
+          49.2097716
+        ]
+      },
+      "properties": {
+        "nazwa": "Kotłowe Siodło",
+        "wysokosc": 1810,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "3 listopada 2024",
+        "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9489548,
+          49.2326262
+        ]
+      },
+      "properties": {
+        "nazwa": "Suche Wrótka",
+        "wysokosc": 1802,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1296,11 +2010,53 @@
         "wysokosc": 1801,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9464491,
+          49.2332455
+        ]
+      },
+      "properties": {
+        "nazwa": "Gładki Przechód",
+        "wysokosc": 1799,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9514944,
+          49.232255
+        ]
+      },
+      "properties": {
+        "nazwa": "Niskie Wrótka",
+        "wysokosc": 1798,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1320,8 +2076,8 @@
         "data": "3 listopada 2024",
         "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1338,11 +2094,11 @@
         "wysokosc": 1788,
         "rodzaj": "przelecz",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1362,8 +2118,8 @@
         "data": "29 września 2024",
         "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1383,8 +2139,8 @@
         "data": "15 czerwca 2025",
         "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1404,8 +2160,8 @@
         "data": "17 listopada 2024",
         "instagram": "https://www.instagram.com/p/DCgN8FssAJr/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1421,12 +2177,12 @@
         "nazwa": "Świstowy Przechód",
         "wysokosc": 1755,
         "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "zdobyty": true,
+        "data": "19 października 2025",
+        "instagram": "https://www.instagram.com/p/DQBFGR3iPqi/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1446,8 +2202,8 @@
         "data": "30 marca 2025",
         "instagram": "https://www.instagram.com/p/DH1cBSrsVW7/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1467,8 +2223,29 @@
         "data": "17 czerwca 2023",
         "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.048611,
+          49.213625
+        ]
+      },
+      "properties": {
+        "nazwa": "Dolina Pięciu Stawów Polskich",
+        "wysokosc": 1670,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "1 października 2022",
+        "instagram": "https://www.instagram.com/p/CjR0JgHDsSp/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -1509,1373 +2286,8 @@
         "data": "15 czerwca 2025",
         "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0032909,
-          49.2549125
-        ]
-      },
-      "properties": {
-        "nazwa": "Przełęcz między Kopami",
-        "wysokosc": 1499,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "14 czerwca 2024",
-        "instagram": "https://www.instagram.com/p/C5wO_k1sr71/",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0765188,
-          49.2590286
-        ]
-      },
-      "properties": {
-        "nazwa": "Gęsia Szyja",
-        "wysokosc": 1489,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "20 maja 2023",
-        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.003247,
-          49.2567333
-        ]
-      },
-      "properties": {
-        "nazwa": "Diabełek",
-        "wysokosc": 1470,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8867844,
-          49.2484377
-        ]
-      },
-      "properties": {
-        "nazwa": "Siodło za Piecem",
-        "wysokosc": 1465,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "29 września 2024",
-        "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8363044,
-          49.2321746
-        ]
-      },
-      "properties": {
-        "nazwa": "Iwaniacka Przełęcz",
-        "wysokosc": 1459,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "3 listopada 2024",
-        "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.7776063,
-          49.2360501
-        ]
-      },
-      "properties": {
-        "nazwa": "Upalone",
-        "wysokosc": 1421,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "11 czerwca 2022",
-        "instagram": "https://www.instagram.com/p/CexS6I-Ir-3/?img_index=1",
-        "zima": true,
-        "data_zima": "9 lutego 2025",
-        "instagram_zima": "https://www.instagram.com/p/DF3QXXuM7HU/?img_index=1"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.91715,
-          49.2565523
-        ]
-      },
-      "properties": {
-        "nazwa": "Grzybowiec",
-        "wysokosc": 1417,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "15 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.7762179,
-          49.2421488
-        ]
-      },
-      "properties": {
-        "nazwa": "Bobrowiecka Przełęcz",
-        "wysokosc": 1356,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9635503,
-          49.2616531
-        ]
-      },
-      "properties": {
-        "nazwa": "Biała Czubka",
-        "wysokosc": 1333,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9623209,
-          49.2613612
-        ]
-      },
-      "properties": {
-        "nazwa": "Wyżnia Przełęcz Białego",
-        "wysokosc": 1331,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0163039,
-          49.2716554
-        ]
-      },
-      "properties": {
-        "nazwa": "Wielki Kopieniec",
-        "wysokosc": 1328,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "20 maja 2023",
-        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9159462,
-          49.2593951
-        ]
-      },
-      "properties": {
-        "nazwa": "Przełęcz w Grzybowcu",
-        "wysokosc": 1311,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "15 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8341203,
-          49.2555833
-        ]
-      },
-      "properties": {
-        "nazwa": "Kominiarska Przełęcz",
-        "wysokosc": 1307,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.964156,
-          49.2626883
-        ]
-      },
-      "properties": {
-        "nazwa": "Przełęcz Białego",
-        "wysokosc": 1305,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9425877,
-          49.2628067
-        ]
-      },
-      "properties": {
-        "nazwa": "Czerwona Przełęcz",
-        "wysokosc": 1301,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.989459,
-          49.2764311
-        ]
-      },
-      "properties": {
-        "nazwa": "Nosal",
-        "wysokosc": 1205,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "13 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK7fINesQC5/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8784308,
-          49.2563337
-        ]
-      },
-      "properties": {
-        "nazwa": "Upłaziański Wierszyk",
-        "wysokosc": 1203,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "29 września 2024",
-        "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9501619,
-          49.2637624
-        ]
-      },
-      "properties": {
-        "nazwa": "Przełączka za Igłą",
-        "wysokosc": 1176,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9914478,
-          49.2729371
-        ]
-      },
-      "properties": {
-        "nazwa": "Nosalowa Przełęcz",
-        "wysokosc": 1102,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "13 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK7fINesQC5/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0125623,
-          49.2079436
-        ]
-      },
-      "properties": {
-        "nazwa": "Gładka Przełęcz",
-        "wysokosc": 1994,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.040079,
-          49.2267013
-        ]
-      },
-      "properties": {
-        "nazwa": "Buczynowe Siodło",
-        "wysokosc": 2125,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0393783,
-          49.2269515
-        ]
-      },
-      "properties": {
-        "nazwa": "Budzowa Igła",
-        "wysokosc": 2130,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0394699,
-          49.2269298
-        ]
-      },
-      "properties": {
-        "nazwa": "Budzowa Przełączka",
-        "wysokosc": 2125,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8356489,
-          49.2097716
-        ]
-      },
-      "properties": {
-        "nazwa": "Kotłowe Siodło",
-        "wysokosc": 1810,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "3 listopada 2024",
-        "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0279486,
-          49.2184851
-        ]
-      },
-      "properties": {
-        "nazwa": "Kozia Przełęcz Wyżnia",
-        "wysokosc": 2240,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0354201,
-          49.2272111
-        ]
-      },
-      "properties": {
-        "nazwa": "Orla Przełączka Niżnia",
-        "wysokosc": 2150,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0457059,
-          49.2279673
-        ]
-      },
-      "properties": {
-        "nazwa": "Przełączka pod Ptakiem",
-        "wysokosc": 2105,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0327859,
-          49.2238883
-        ]
-      },
-      "properties": {
-        "nazwa": "Sieczkowa Szczerba",
-        "wysokosc": 2210,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0331787,
-          49.226351
-        ]
-      },
-      "properties": {
-        "nazwa": "Skrajna Sieczkowa Przełączka",
-        "wysokosc": 2200,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.033007,
-          49.2237921
-        ]
-      },
-      "properties": {
-        "nazwa": "Skrajna Sieczkowa Turnia",
-        "wysokosc": 2220,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9006672,
-          49.2339518
-        ]
-      },
-      "properties": {
-        "nazwa": "Szerokie Siodło",
-        "wysokosc": 2096,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0447103,
-          49.1966364
-        ]
-      },
-      "properties": {
-        "nazwa": "Szpiglasowa Kopka",
-        "wysokosc": 1983,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "7 października 2023",
-        "instagram": "https://www.instagram.com/p/CyJO2bDs_6O/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9893792,
-          49.2269605
-        ]
-      },
-      "properties": {
-        "nazwa": "Wyżnie Liliowe",
-        "wysokosc": 1965,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "14 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0330443,
-          49.2233881
-        ]
-      },
-      "properties": {
-        "nazwa": "Wyżnie Sieczkowe Siodełko",
-        "wysokosc": 2215,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0201717,
-          49.2188423
-        ]
-      },
-      "properties": {
-        "nazwa": "Zmarzła Przełączka Wyżnia",
-        "wysokosc": 2201,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.81555,
-          49.2595289
-        ]
-      },
-      "properties": {
-        "nazwa": "Polana Huciska",
-        "wysokosc": 982,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "11 czerwca 2022",
-        "instagram": "https://www.instagram.com/p/CexS6I-Ir-3/?img_index=1",
-        "zima": true,
-        "data_zima": "9 lutego 2025",
-        "instagram_zima": "https://www.instagram.com/p/DF3QXXuM7HU/?img_index=1"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.787876,
-          49.236397
-        ]
-      },
-      "properties": {
-        "nazwa": "Polana Chochołowska",
-        "wysokosc": 1146,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "11 czerwca 2022",
-        "instagram": "https://www.instagram.com/p/CexS6I-Ir-3/?img_index=1",
-        "zima": true,
-        "data_zima": "9 lutego 2025",
-        "instagram_zima": "https://www.instagram.com/p/DF3QXXuM7HU/?img_index=1"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.7671822,
-          49.2332901
-        ]
-      },
-      "properties": {
-        "nazwa": "Łuczniańska Przełęcz",
-        "wysokosc": 1602,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "11 maja 2024",
-        "instagram": "https://www.instagram.com/p/C62qsshoOcD/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.7871452,
-          49.1991878
-        ]
-      },
-      "properties": {
-        "nazwa": "Niska Przełęcz",
-        "wysokosc": 1831,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8108156,
-          49.2042173
-        ]
-      },
-      "properties": {
-        "nazwa": "Starorobociańska Przełęcz",
-        "wysokosc": 1965,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8199409,
-          49.199371
-        ]
-      },
-      "properties": {
-        "nazwa": "Starorobociański Wierch",
-        "wysokosc": 2176,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8369454,
-          49.196307
-        ]
-      },
-      "properties": {
-        "nazwa": "Banista Przełączka",
-        "wysokosc": 1953,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8396412,
-          49.1959626
-        ]
-      },
-      "properties": {
-        "nazwa": "Bystry Karb",
-        "wysokosc": 1946,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9057683,
-          49.2309602
-        ]
-      },
-      "properties": {
-        "nazwa": "Mułowa Przełęcz",
-        "wysokosc": 2067,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9094918,
-          49.2316647
-        ]
-      },
-      "properties": {
-        "nazwa": "Krzesanica",
-        "wysokosc": 2122,
-        "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9283693,
-          49.2353128
-        ]
-      },
-      "properties": {
-        "nazwa": "Małołącka Przełęcz",
-        "wysokosc": 1924,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9464491,
-          49.2332455
-        ]
-      },
-      "properties": {
-        "nazwa": "Gładki Przechód",
-        "wysokosc": 1799,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9489548,
-          49.2326262
-        ]
-      },
-      "properties": {
-        "nazwa": "Suche Wrótka",
-        "wysokosc": 1802,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9514944,
-          49.232255
-        ]
-      },
-      "properties": {
-        "nazwa": "Niskie Wrótka",
-        "wysokosc": 1798,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9545422,
-          49.2322321
-        ]
-      },
-      "properties": {
-        "nazwa": "Wysokie Wrótka",
-        "wysokosc": 1847,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9692441,
-          49.2303687
-        ]
-      },
-      "properties": {
-        "nazwa": "Nad Zakosy",
-        "wysokosc": 1816,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9913377,
-          49.2255512
-        ]
-      },
-      "properties": {
-        "nazwa": "Liliowe",
-        "wysokosc": 1952,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "14 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9992161,
-          49.2223005
-        ]
-      },
-      "properties": {
-        "nazwa": "Skrajna Przełęcz",
-        "wysokosc": 2071,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "14 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0038625,
-          49.220805
-        ]
-      },
-      "properties": {
-        "nazwa": "Świnicka Przełęcz",
-        "wysokosc": 2051,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "14 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK7ma6TsfKO/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.048611,
-          49.213625
-        ]
-      },
-      "properties": {
-        "nazwa": "Dolina Pięciu Stawów Polskich",
-        "wysokosc": 1670,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "1 października 2022",
-        "instagram": "https://www.instagram.com/p/CjR0JgHDsSp/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0651276,
-          49.1837052
-        ]
-      },
-      "properties": {
-        "nazwa": "Mięguszowiecka Przełęcz pod Chłopkiem",
-        "wysokosc": 2307,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0737544,
-          49.1903503
-        ]
-      },
-      "properties": {
-        "nazwa": "Czarny Staw pod Rysami",
-        "wysokosc": 1583,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.8934275,
-          49.2622194
-        ]
-      },
-      "properties": {
-        "nazwa": "Przysłop Miętusi",
-        "wysokosc": 1189,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9297207,
-          49.2630321
-        ]
-      },
-      "properties": {
-        "nazwa": "Polana Strążyska",
-        "wysokosc": 1029,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "15 czerwca 2025",
-        "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0366296,
-          49.2697187
-        ]
-      },
-      "properties": {
-        "nazwa": "Psia Trawka",
-        "wysokosc": 1183,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "20 maja 2023",
-        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0902088,
-          49.2628462
-        ]
-      },
-      "properties": {
-        "nazwa": "Rusinowa Polana",
-        "wysokosc": 1209,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "20 maja 2023",
-        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.9410007,
-          49.2648986
-        ]
-      },
-      "properties": {
-        "nazwa": "Sarnia Skała",
-        "wysokosc": 1378,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "11 listopada 2023",
-        "instagram": "https://www.instagram.com/p/CzjgJbWMnN5/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.07107,
-          49.201291
-        ]
-      },
-      "properties": {
-        "nazwa": "Morskie Oko",
-        "wysokosc": 1395,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "7 października 2023",
-        "instagram": "https://www.instagram.com/p/CyJO2bDs_6O/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0660302,
-          49.2555218
-        ]
-      },
-      "properties": {
-        "nazwa": "Waksmundzka Przełęcz",
-        "wysokosc": 1418,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0272207,
-          49.2221894
-        ]
-      },
-      "properties": {
-        "nazwa": "Kozia Dolinka",
-        "wysokosc": 1940,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "21 września 2024",
-        "instagram": "https://www.instagram.com/p/DANad59sTbf/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -2904,20 +2316,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.8587366,
-          49.2286537
+          19.7671822,
+          49.2332901
         ]
       },
       "properties": {
-        "nazwa": "Hala Ornak",
-        "wysokosc": 1100,
+        "nazwa": "Łuczniańska Przełęcz",
+        "wysokosc": 1602,
         "rodzaj": "przelecz",
         "zdobyty": true,
-        "data": "29 września 2024",
-        "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
+        "data": "11 maja 2024",
+        "instagram": "https://www.instagram.com/p/C62qsshoOcD/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -2925,20 +2337,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.8336342,
-          49.2221134
+          20.0737544,
+          49.1903503
         ]
       },
       "properties": {
-        "nazwa": "Suchy Wierch Ornaczański",
-        "wysokosc": 1832,
-        "rodzaj": "szczyt",
-        "zdobyty": true,
-        "data": "3 listopada 2024",
-        "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
+        "nazwa": "Czarny Staw pod Rysami",
+        "wysokosc": 1583,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -2967,6 +2379,237 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          20.0032909,
+          49.2549125
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz między Kopami",
+        "wysokosc": 1499,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "14 czerwca 2024",
+        "instagram": "https://www.instagram.com/p/C5wO_k1sr71/",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0765188,
+          49.2590286
+        ]
+      },
+      "properties": {
+        "nazwa": "Gęsia Szyja",
+        "wysokosc": 1489,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "20 maja 2023",
+        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.003247,
+          49.2567333
+        ]
+      },
+      "properties": {
+        "nazwa": "Diabełek",
+        "wysokosc": 1470,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8867844,
+          49.2484377
+        ]
+      },
+      "properties": {
+        "nazwa": "Siodło za Piecem",
+        "wysokosc": 1465,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "29 września 2024",
+        "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8363044,
+          49.2321746
+        ]
+      },
+      "properties": {
+        "nazwa": "Iwaniacka Przełęcz",
+        "wysokosc": 1459,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "3 listopada 2024",
+        "instagram": "https://www.instagram.com/p/DB8HQlrsKax/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7776063,
+          49.2360501
+        ]
+      },
+      "properties": {
+        "nazwa": "Upalone",
+        "wysokosc": 1421,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "11 czerwca 2022",
+        "instagram": "https://www.instagram.com/p/CexS6I-Ir-3/?img_index=1",
+        "zima": true,
+        "data_zima": "9 lutego 2025",
+        "instagram_zima": "https://www.instagram.com/p/DF3QXXuM7HU/?img_index=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0660302,
+          49.2555218
+        ]
+      },
+      "properties": {
+        "nazwa": "Waksmundzka Przełęcz",
+        "wysokosc": 1418,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.91715,
+          49.2565523
+        ]
+      },
+      "properties": {
+        "nazwa": "Grzybowiec",
+        "wysokosc": 1417,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "15 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.07107,
+          49.201291
+        ]
+      },
+      "properties": {
+        "nazwa": "Morskie Oko",
+        "wysokosc": 1395,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "7 października 2023",
+        "instagram": "https://www.instagram.com/p/CyJO2bDs_6O/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9410007,
+          49.2648986
+        ]
+      },
+      "properties": {
+        "nazwa": "Sarnia Skała",
+        "wysokosc": 1378,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "11 listopada 2023",
+        "instagram": "https://www.instagram.com/p/CzjgJbWMnN5/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7762179,
+          49.2421488
+        ]
+      },
+      "properties": {
+        "nazwa": "Bobrowiecka Przełęcz",
+        "wysokosc": 1356,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           19.9741183,
           49.251648
         ]
@@ -2988,48 +2631,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          20.0951365,
-          49.2335117
-        ]
-      },
-      "properties": {
-        "nazwa": "Stara Roztoka",
-        "wysokosc": 1031,
-        "rodzaj": "przelecz",
-        "zdobyty": false,
-        "data": null,
-        "instagram": null,
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          20.0872338,
-          49.2344718
-        ]
-      },
-      "properties": {
-        "nazwa": "Wodogrzmoty Mickiewicza",
-        "wysokosc": 1090,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "1 października 2022",
-        "instagram": "https://www.instagram.com/p/CjR0JgHDsSp/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           19.9516056,
           49.2495823
         ]
@@ -3042,8 +2643,8 @@
         "data": "17 czerwca 2023",
         "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -3051,41 +2652,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.9665722,
-          49.2594137
+          19.9635503,
+          49.2616531
         ]
       },
       "properties": {
-        "nazwa": "Kalatówki",
-        "wysokosc": 1195,
-        "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "17 czerwca 2023",
-        "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
-        "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          19.7949966,
-          49.1984157
-        ]
-      },
-      "properties": {
-        "nazwa": "Jarząbczy Wierch",
-        "wysokosc": 2137,
+        "nazwa": "Biała Czubka",
+        "wysokosc": 1333,
         "rodzaj": "szczyt",
         "zdobyty": false,
-        "data": null,
-        "instagram": null,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -3093,20 +2673,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.9043834,
-          49.2597258
+          19.9623209,
+          49.2613612
         ]
       },
       "properties": {
-        "nazwa": "Wielka Polana Małołącka",
-        "wysokosc": 1164,
+        "nazwa": "Wyżnia Przełęcz Białego",
+        "wysokosc": 1331,
         "rodzaj": "przelecz",
-        "zdobyty": true,
-        "data": "17 czerwca 2023",
-        "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
       }
     },
     {
@@ -3126,8 +2706,428 @@
         "data": "13 kwietnia 2025",
         "instagram": "https://www.instagram.com/p/DIZfgHJso1G/?img_index=1",
         "zima": false,
-        "data_zima": null,
-        "instagram_zima": null
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0163039,
+          49.2716554
+        ]
+      },
+      "properties": {
+        "nazwa": "Wielki Kopieniec",
+        "wysokosc": 1328,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "20 maja 2023",
+        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9159462,
+          49.2593951
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz w Grzybowcu",
+        "wysokosc": 1311,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "15 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8341203,
+          49.2555833
+        ]
+      },
+      "properties": {
+        "nazwa": "Kominiarska Przełęcz",
+        "wysokosc": 1307,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.964156,
+          49.2626883
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełęcz Białego",
+        "wysokosc": 1305,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9425877,
+          49.2628067
+        ]
+      },
+      "properties": {
+        "nazwa": "Czerwona Przełęcz",
+        "wysokosc": 1301,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0902088,
+          49.2628462
+        ]
+      },
+      "properties": {
+        "nazwa": "Rusinowa Polana",
+        "wysokosc": 1209,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "20 maja 2023",
+        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.989459,
+          49.2764311
+        ]
+      },
+      "properties": {
+        "nazwa": "Nosal",
+        "wysokosc": 1205,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "13 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK7fINesQC5/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8784308,
+          49.2563337
+        ]
+      },
+      "properties": {
+        "nazwa": "Upłaziański Wierszyk",
+        "wysokosc": 1203,
+        "rodzaj": "szczyt",
+        "zdobyty": true,
+        "data": "29 września 2024",
+        "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9665722,
+          49.2594137
+        ]
+      },
+      "properties": {
+        "nazwa": "Kalatówki",
+        "wysokosc": 1195,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "17 czerwca 2023",
+        "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8934275,
+          49.2622194
+        ]
+      },
+      "properties": {
+        "nazwa": "Przysłop Miętusi",
+        "wysokosc": 1189,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0366296,
+          49.2697187
+        ]
+      },
+      "properties": {
+        "nazwa": "Psia Trawka",
+        "wysokosc": 1183,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "20 maja 2023",
+        "instagram": "https://www.instagram.com/p/CseReoUsnKV/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9501619,
+          49.2637624
+        ]
+      },
+      "properties": {
+        "nazwa": "Przełączka za Igłą",
+        "wysokosc": 1176,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9043834,
+          49.2597258
+        ]
+      },
+      "properties": {
+        "nazwa": "Wielka Polana Małołącka",
+        "wysokosc": 1164,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "17 czerwca 2023",
+        "instagram": "https://www.instagram.com/p/CtoDF_WsUag/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.787876,
+          49.236397
+        ]
+      },
+      "properties": {
+        "nazwa": "Polana Chochołowska",
+        "wysokosc": 1146,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "11 czerwca 2022",
+        "instagram": "https://www.instagram.com/p/CexS6I-Ir-3/?img_index=1",
+        "zima": true,
+        "data_zima": "9 lutego 2025",
+        "instagram_zima": "https://www.instagram.com/p/DF3QXXuM7HU/?img_index=1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9914478,
+          49.2729371
+        ]
+      },
+      "properties": {
+        "nazwa": "Nosalowa Przełęcz",
+        "wysokosc": 1102,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "13 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK7fINesQC5/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.8587366,
+          49.2286537
+        ]
+      },
+      "properties": {
+        "nazwa": "Hala Ornak",
+        "wysokosc": 1100,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "29 września 2024",
+        "instagram": "https://www.instagram.com/p/DAg9VUMMGhF/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0872338,
+          49.2344718
+        ]
+      },
+      "properties": {
+        "nazwa": "Wodogrzmoty Mickiewicza",
+        "wysokosc": 1090,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "1 października 2022",
+        "instagram": "https://www.instagram.com/p/CjR0JgHDsSp/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0951365,
+          49.2335117
+        ]
+      },
+      "properties": {
+        "nazwa": "Stara Roztoka",
+        "wysokosc": 1031,
+        "rodzaj": "przelecz",
+        "zdobyty": false,
+        "data": "None",
+        "instagram": "None",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9297207,
+          49.2630321
+        ]
+      },
+      "properties": {
+        "nazwa": "Polana Strążyska",
+        "wysokosc": 1029,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "15 czerwca 2025",
+        "instagram": "https://www.instagram.com/p/DK_nT5lMhww/?img_index=1",
+        "zima": false,
+        "data_zima": "None",
+        "instagram_zima": "None"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.81555,
+          49.2595289
+        ]
+      },
+      "properties": {
+        "nazwa": "Polana Huciska",
+        "wysokosc": 982,
+        "rodzaj": "przelecz",
+        "zdobyty": true,
+        "data": "11 czerwca 2022",
+        "instagram": "https://www.instagram.com/p/CexS6I-Ir-3/?img_index=1",
+        "zima": true,
+        "data_zima": "9 lutego 2025",
+        "instagram_zima": "https://www.instagram.com/p/DF3QXXuM7HU/?img_index=1"
       }
     }
   ]
