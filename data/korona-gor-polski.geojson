@@ -1,426 +1,509 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Rysy",
-          "wysokosc": 2499,
-          "pasmo": "Tatry",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.08811, 49.17958]
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Rysy",
+        "wysokosc": 2499,
+        "pasmo": "Tatry",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
       },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Babia Góra",
-          "wysokosc": 1725,
-          "pasmo": "Beskid Żywiecki",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/CUsq3_fsAyV/?img_index=1",
-          "data_zdobycia": "3 października 2021"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [19.52933, 49.57302]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Śnieżka",
-          "wysokosc": 1603,
-          "pasmo": "Karkonosze",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [15.73960, 50.73603]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Śnieżnik",
-          "wysokosc": 1425,
-          "pasmo": "Masyw Śnieżnika",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.84742, 50.20741]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Tarnica",
-          "wysokosc": 1346,
-          "pasmo": "Bieszczady",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/B5awZFHpijt/?img_index=1",
-          "data_zdobycia": "15 listopada 2019"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [22.72632, 49.07477]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Turbacz",
-          "wysokosc": 1310,
-          "pasmo": "Gorce",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/CkrWpyGND5N/?img_index=1",
-          "data_zdobycia": "6 listopada 2022"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.11138, 49.54282]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Radziejowa",
-          "wysokosc": 1266,
-          "pasmo": "Beskid Sądecki",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.60412, 49.44930]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Skrzyczne",
-          "wysokosc": 1257,
-          "pasmo": "Beskid Śląski",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/Czbys49s7v1/?img_index=1",
-          "data_zdobycia": "9 listopada 2023"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [19.03027, 49.68457]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Mogielica",
-          "wysokosc": 1171,
-          "pasmo": "Beskid Wyspowy",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/C5GtHhks9-r/?img_index=1",
-          "data_zdobycia": "29 marca 2024"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.27667, 49.65532]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Wysoka Kopa",
-          "wysokosc": 1126,
-          "pasmo": "Góry Izerskie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [15.42028, 50.85000]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Rudawiec",
-          "wysokosc": 1106,
-          "pasmo": "Góry Bialskie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.97686, 50.24480]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Orlica",
-          "wysokosc": 1084,
-          "pasmo": "Góry Orlickie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.36063, 50.35325]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Wysoka",
-          "wysokosc": 1050,
-          "pasmo": "Pieniny",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/DIDazupNgsT/?img_index=1",
-          "data_zdobycia": "4 kwietnia 2025"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.55550, 49.38026]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Wielka Sowa",
-          "wysokosc": 1015,
-          "pasmo": "Góry Sowie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.48556, 50.68028]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Lackowa",
-          "wysokosc": 997,
-          "pasmo": "Beskid Niski",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/B5azrAWJn1o/?img_index=4",
-          "data_zdobycia": "16 listopada 2019"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [21.10248, 49.42655]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Kowadło",
-          "wysokosc": 989,
-          "pasmo": "Góry Złote",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [17.01321, 50.26443]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Jagodna",
-          "wysokosc": 977,
-          "pasmo": "Góry Bystrzyckie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.56442, 50.25246]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Skalnik",
-          "wysokosc": 945,
-          "pasmo": "Rudawy Janowickie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [15.90006, 50.80848]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Waligóra",
-          "wysokosc": 936,
-          "pasmo": "Góry Kamienne",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.27809, 50.68082]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Czupel",
-          "wysokosc": 930,
-          "pasmo": "Beskid Mały",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/CTupcCbMzH5/",
-          "data_zdobycia": "12 września 2021"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [19.16103, 49.76788]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Szczeliniec Wielki",
-          "wysokosc": 919,
-          "pasmo": "Góry Stołowe",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.34100, 50.48481]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Lubomir",
-          "wysokosc": 904,
-          "pasmo": "Beskid Makowski",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.05967, 49.76688]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Biskupia Kopa",
-          "wysokosc": 889,
-          "pasmo": "Góry Opawskie",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/DI9MosJsToX/?img_index=1",
-          "data_zdobycia": "27 kwietnia 2025"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [17.42858, 50.25669]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Chełmiec",
-          "wysokosc": 850,
-          "pasmo": "Góry Wałbrzyskie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.21097, 50.77955]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Kłodzka Góra",
-          "wysokosc": 765,
-          "pasmo": "Góry Bardzkie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.75322, 50.45167]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Skopiec",
-          "wysokosc": 724,
-          "pasmo": "Góry Kaczawskie",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [15.88471, 50.94393]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Ślęża",
-          "wysokosc": 718,
-          "pasmo": "Masyw Ślęży",
-          "zdobyty": false,
-          "instagram": "",
-          "data_zdobycia": ""
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [16.70750, 50.86409]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "nazwa": "Łysica",
-          "wysokosc": 614,
-          "pasmo": "Góry Świętokrzyskie",
-          "zdobyty": true,
-          "instagram": "https://www.instagram.com/p/DH1K7wuMVPT/?img_index=1",
-          "data_zdobycia": "29 marca 2025"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [20.89660, 50.89162]
-        }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.08811,
+          49.17958
+        ]
       }
-    ]
-  }
-  
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Babia Góra",
+        "wysokosc": 1725,
+        "pasmo": "Beskid Żywiecki",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/CUsq3_fsAyV/?img_index=1",
+        "data_zdobycia": "3 października 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.52933,
+          49.57302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Śnieżka",
+        "wysokosc": 1603,
+        "pasmo": "Karkonosze",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.7396,
+          50.73603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Śnieżnik",
+        "wysokosc": 1425,
+        "pasmo": "Masyw Śnieżnika",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.84742,
+          50.20741
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Tarnica",
+        "wysokosc": 1346,
+        "pasmo": "Bieszczady",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/B5awZFHpijt/?img_index=1",
+        "data_zdobycia": "15 listopada 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.72632,
+          49.07477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Turbacz",
+        "wysokosc": 1310,
+        "pasmo": "Gorce",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/CkrWpyGND5N/?img_index=1",
+        "data_zdobycia": "6 listopada 2022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.11138,
+          49.54282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Radziejowa",
+        "wysokosc": 1266,
+        "pasmo": "Beskid Sądecki",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.60412,
+          49.4493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Skrzyczne",
+        "wysokosc": 1257,
+        "pasmo": "Beskid Śląski",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/Czbys49s7v1/?img_index=1",
+        "data_zdobycia": "9 listopada 2023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.03027,
+          49.68457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Mogielica",
+        "wysokosc": 1171,
+        "pasmo": "Beskid Wyspowy",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/C5GtHhks9-r/?img_index=1",
+        "data_zdobycia": "29 marca 2024"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.27667,
+          49.65532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Wysoka Kopa",
+        "wysokosc": 1126,
+        "pasmo": "Góry Izerskie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.42028,
+          50.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Rudawiec",
+        "wysokosc": 1106,
+        "pasmo": "Góry Bialskie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.97686,
+          50.2448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Orlica",
+        "wysokosc": 1084,
+        "pasmo": "Góry Orlickie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36063,
+          50.35325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Wysoka",
+        "wysokosc": 1050,
+        "pasmo": "Pieniny",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/DIDazupNgsT/?img_index=1",
+        "data_zdobycia": "4 kwietnia 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5555,
+          49.38026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Wielka Sowa",
+        "wysokosc": 1015,
+        "pasmo": "Góry Sowie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.48556,
+          50.68028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Lackowa",
+        "wysokosc": 997,
+        "pasmo": "Beskid Niski",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/B5azrAWJn1o/?img_index=4",
+        "data_zdobycia": "16 listopada 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.10248,
+          49.42655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Kowadło",
+        "wysokosc": 989,
+        "pasmo": "Góry Złote",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.01321,
+          50.26443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Jagodna",
+        "wysokosc": 977,
+        "pasmo": "Góry Bystrzyckie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.56442,
+          50.25246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Skalnik",
+        "wysokosc": 945,
+        "pasmo": "Rudawy Janowickie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.90006,
+          50.80848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Waligóra",
+        "wysokosc": 936,
+        "pasmo": "Góry Kamienne",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.27809,
+          50.68082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Czupel",
+        "wysokosc": 930,
+        "pasmo": "Beskid Mały",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/CTupcCbMzH5/",
+        "data_zdobycia": "12 września 2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.16103,
+          49.76788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Szczeliniec Wielki",
+        "wysokosc": 919,
+        "pasmo": "Góry Stołowe",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.341,
+          50.48481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Lubomir",
+        "wysokosc": 912,
+        "pasmo": "Beskid Makowski",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/DSPDaRKjGKQ/?img_index=1",
+        "data_zdobycia": "12 grudnia 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.05967,
+          49.76688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Biskupia Kopa",
+        "wysokosc": 889,
+        "pasmo": "Góry Opawskie",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/DI9MosJsToX/?img_index=1",
+        "data_zdobycia": "27 kwietnia 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.42858,
+          50.25669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Chełmiec",
+        "wysokosc": 850,
+        "pasmo": "Góry Wałbrzyskie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.21097,
+          50.77955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Kłodzka Góra",
+        "wysokosc": 765,
+        "pasmo": "Góry Bardzkie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.75322,
+          50.45167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Skopiec",
+        "wysokosc": 724,
+        "pasmo": "Góry Kaczawskie",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.88471,
+          50.94393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Ślęża",
+        "wysokosc": 718,
+        "pasmo": "Masyw Ślęży",
+        "zdobyty": false,
+        "instagram": "",
+        "data_zdobycia": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7075,
+          50.86409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nazwa": "Łysica",
+        "wysokosc": 614,
+        "pasmo": "Góry Świętokrzyskie",
+        "zdobyty": true,
+        "instagram": "https://www.instagram.com/p/DH1K7wuMVPT/?img_index=1",
+        "data_zdobycia": "29 marca 2025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8966,
+          50.89162
+        ]
+      }
+    }
+  ]
+}
