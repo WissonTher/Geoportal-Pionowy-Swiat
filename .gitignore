@@ -1,5 +1,6 @@
 .env
 __pycache__/
+dist/
 app.py
 app1.py
 application.py
