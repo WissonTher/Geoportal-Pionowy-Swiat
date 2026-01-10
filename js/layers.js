@@ -122,6 +122,11 @@ var headquater = L.layerGroup();
 var msbLayer = L.layerGroup();
 var loopLayer = L.layerGroup();
 
+map.createPane('loopPane');
+map.getPane('loopPane').style.zIndex = 400;
+map.createPane('loopDonePane');
+map.getPane('loopDonePane').style.zIndex = 410;
+
 map.createPane('niezdobytePane');
 map.getPane('niezdobytePane').style.zIndex = 400;
 map.createPane('zdobytePane');
