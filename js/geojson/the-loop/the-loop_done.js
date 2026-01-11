@@ -4,7 +4,7 @@ fetch('data/theloop_done.geojson')
         var loopDoneWhite = L.geoJSON(data, {
             pane: 'loopDonePane',
             style: function(feature) {
-                return { color: "#ffffff", weight: 6, opacity: 0.9 };
+                return { color: "#351d00", weight: 8, opacity: 0.9 };
             },
             interactive: false
         }).addTo(loopDoneLayer);
@@ -12,7 +12,7 @@ fetch('data/theloop_done.geojson')
         var loopDoneGeojson = L.geoJSON(data, {
             pane: 'loopDonePane',
             style: function(feature) {
-                return { color: "#73c53e", weight: 3, opacity: 1 };
+                return { color: "#ff8c00", weight: 3, opacity: 1 };
             },
             onEachFeature: function(feature, layer) {
                 var props = feature.properties;
@@ -24,10 +24,18 @@ fetch('data/theloop_done.geojson')
                 var coords = feature.geometry.coordinates;
                 [coords[0], coords[coords.length - 1]].forEach(c => {
                     L.circleMarker([c[1], c[0]], {
+                        radius: 6,
+                        color: "#000000",
+                        fillOpacity: 1,
+                        interactive: false,
+                        pane: 'loopDonePane'
+                    }).addTo(loopDoneLayer);
+
+                    L.circleMarker([c[1], c[0]], {
                         radius: 5,
-                        fillColor: "#32571a",
+                        fillColor: "#447523",
                         color: "#ffffff",
-                        weight: 2,
+                        weight: 3,
                         fillOpacity: 1,
                         interactive: false,
                         pane: 'loopDonePane'
