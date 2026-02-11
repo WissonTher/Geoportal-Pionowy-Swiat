@@ -118,9 +118,11 @@ var zdobyteLayer = L.layerGroup();
 var niezdobyteLayer = L.layerGroup();
 var msbDoneLayer = L.layerGroup();
 var loopDoneLayer = L.layerGroup();
+var projectDoneLayer = L.layerGroup();
 var headquater = L.layerGroup();
 var msbLayer = L.layerGroup();
 var loopLayer = L.layerGroup();
+var projectLayer = L.layerGroup();
 
 map.createPane('loopPane');
 map.getPane('loopPane').style.zIndex = 400;
@@ -131,6 +133,7 @@ map.createPane('niezdobytePane');
 map.getPane('niezdobytePane').style.zIndex = 400;
 map.createPane('zdobytePane');
 map.getPane('zdobytePane').style.zIndex = 410;
+
 var niezdobyteTatraLayer = L.layerGroup([], { pane: 'niezdobytePane' });
 var zdobyteTatraLayer = L.layerGroup([], { pane: 'zdobytePane' });
 var allMarkers = L.featureGroup();
@@ -185,11 +188,13 @@ var groupedOverlays = {
     },
     "Nasze górskie projekty": {
         "Mały Szlak Beskidzki": msbLayer,
-        "The Loop": loopLayer
+        "Nowy Projekt": projectLayer
+        // "The Loop": loopLayer
     },
     "Zdobyte fragmenty": {
         "Mały Szlak Beskidzki": msbDoneLayer,
-        "The Loop": loopDoneLayer
+        "Nowy Projekt": projectDoneLayer
+        // "The Loop": loopDoneLayer
     },
     "Tatry ponad wszystko": {
         "Zdobyte ": zdobyteTatraLayer,
@@ -202,5 +207,9 @@ var groupedOverlays = {
     },
     "Dodatki": {
         "Siedziba": headquarterLayer
+    },
+    
+    "Archiwum": {
+        "The Loop [100%]": loopDoneLayer
     }
 };

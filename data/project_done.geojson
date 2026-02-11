@@ -1,0 +1,17 @@
+{
+    "type": "FeatureCollection",
+    "name": "project",
+    "features": [{
+        "type": "Feature", 
+        "properties": {  
+            "name": "",
+            "date": "",
+            "instagram": ""
+        },
+        "geometry": {
+            "type": "LineString", 
+            "coordinates": [ 
+            ]
+        }
+    }]
+}

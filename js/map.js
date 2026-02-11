@@ -37,14 +37,29 @@ modeControl.addTo(map);
 updateMode(mode);
 
 let firstLaunch = false;
+const layers = [msbLayer, msbDoneLayer, projectLayer, projectDoneLayer, loopDoneLayer];
 
 map.on('overlayadd', function(e) {
     if (!firstLaunch) return;
+    let bounds;
 
     if (e.layer === zdobyteTatraLayer || e.layer === niezdobyteTatraLayer) {
         var layerBounds = allMarkers.getBounds();
         if (!layerBounds.contains(map.getBounds())) {
             map.fitBounds(layerBounds);
+        }
+    }
+
+    else if (layers.includes(e.layer)) {
+        const layers = e.layer.getLayers();
+        if (layers.length > 0) {
+            bounds = L.featureGroup(layers).getBounds();
+        }
+    }
+
+    if (bounds && bounds.isValid()) {
+        if (!map.getBounds().contains(bounds)) {
+            map.fitBounds(bounds);
         }
     }
 });
