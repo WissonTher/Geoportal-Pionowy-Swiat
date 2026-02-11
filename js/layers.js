@@ -125,9 +125,22 @@ var loopLayer = L.layerGroup();
 var projectLayer = L.layerGroup();
 
 map.createPane('loopPane');
-map.getPane('loopPane').style.zIndex = 400;
+map.getPane('loopPane').style.zIndex = 500;
 map.createPane('loopDonePane');
-map.getPane('loopDonePane').style.zIndex = 410;
+map.getPane('loopDonePane').style.zIndex = 510;
+
+map.createPane('msbPane');
+map.getPane('msbPane').style.zIndex = 400;
+map.createPane('msbDonePane');
+map.getPane('msbDonePane').style.zIndex = 410;
+
+map.createPane('projectPane');
+map.getPane('projectPane').style.zIndex = 400;
+map.createPane('projectDonePane');
+map.getPane('projectDonePane').style.zIndex = 410;
+
+map.createPane('vertexPane');
+map.getPane('vertexPane').style.zIndex = 600;
 
 map.createPane('niezdobytePane');
 map.getPane('niezdobytePane').style.zIndex = 400;

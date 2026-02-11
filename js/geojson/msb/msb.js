@@ -2,6 +2,7 @@ fetch('data/msb.geojson')
     .then(response => response.json())
     .then(data => {
         var msbDoneGeojson = L.geoJSON(data, {
+            pane: 'msbPane',
             style: function(feature) {
                 return { color: "red", weight: 3, zIndex: 0};
             },

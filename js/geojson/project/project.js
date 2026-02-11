@@ -2,6 +2,7 @@ fetch('data/project.geojson')
     .then(response => response.json())
     .then(data => {
         var projectGeojson = L.geoJSON(data, {
+            pane: 'projectPane',
             style: function(feature) {
                 return { color: "blue", weight: 3, zIndex: 0};
             },

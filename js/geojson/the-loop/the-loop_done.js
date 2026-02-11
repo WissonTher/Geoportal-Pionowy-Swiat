@@ -28,7 +28,7 @@ fetch('data/theloop_done.geojson')
                         color: "#000000",
                         fillOpacity: 1,
                         interactive: false,
-                        pane: 'loopDonePane'
+                        pane: 'vertexPane'
                     }).addTo(loopDoneLayer);
 
                     L.circleMarker([c[1], c[0]], {
@@ -38,7 +38,7 @@ fetch('data/theloop_done.geojson')
                         weight: 3,
                         fillOpacity: 1,
                         interactive: false,
-                        pane: 'loopDonePane'
+                        pane: 'vertexPane'
                     }).addTo(loopDoneLayer);
                 });
             }
