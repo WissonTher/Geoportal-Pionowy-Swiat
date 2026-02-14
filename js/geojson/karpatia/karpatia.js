@@ -1,8 +1,8 @@
-fetch('data/project.geojson')
+fetch('data/karpatia.geojson')
     .then(response => response.json())
     .then(data => {
-        var projectGeojson = L.geoJSON(data, {
-            pane: 'projectPane',
+        var karpatiaGeojson = L.geoJSON(data, {
+            pane: 'karpatiaPane',
             style: function(feature) {
                 return { color: "blue", weight: 3, zIndex: 0};
             },
@@ -14,6 +14,6 @@ fetch('data/project.geojson')
                 `Suma zejść: ${props.comedown} m`
                 layer.bindPopup(popupContent);
             }                    
-        }).addTo(projectLayer);
+        }).addTo(karpatiaLayer);
     })
     .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));

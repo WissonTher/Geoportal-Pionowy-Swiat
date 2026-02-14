@@ -1,16 +1,16 @@
-fetch('data/project_done.geojson')
+fetch('data/karpatia_done.geojson')
     .then(response => response.json())
     .then(data => {
-        var projectDoneWhite = L.geoJSON(data, {
-            pane: 'projectDonePane',
+        var karpatiaDoneWhite = L.geoJSON(data, {
+            pane: 'karpatiaDonePane',
             style: function(feature) {
                 return { color: "#300035", weight: 8, opacity: 0.9 };
             },
             interactive: false
-        }).addTo(projectDoneLayer);
+        }).addTo(karpatiaDoneLayer);
 
-        var projectDoneGeojson = L.geoJSON(data, {
-            pane: 'projectDonePane',
+        var karpatiaDoneGeojson = L.geoJSON(data, {
+            pane: 'karpatiaDonePane',
             style: function(feature) {
                 return { color: "#ee49f4", weight: 4, zIndex: 1};
             },
@@ -29,7 +29,7 @@ fetch('data/project_done.geojson')
                         fillOpacity: 1,
                         interactive: false,
                         pane: 'vertexPane'
-                    }).addTo(projectDoneLayer);
+                    }).addTo(karpatiaDoneLayer);
 
                     L.circleMarker([c[1], c[0]], {
                         radius: 5,
@@ -39,9 +39,9 @@ fetch('data/project_done.geojson')
                         fillOpacity: 1,
                         interactive: false,
                         pane: 'vertexPane'
-                    }).addTo(projectDoneLayer);
+                    }).addTo(karpatiaDoneLayer);
                 });
             }                    
-        }).addTo(projectDoneLayer);
+        }).addTo(karpatiaDoneLayer);
     })
     .catch(error => console.error("Błąd podczas wczytywania GeoJSON:", error));

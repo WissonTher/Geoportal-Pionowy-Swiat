@@ -118,11 +118,11 @@ var zdobyteLayer = L.layerGroup();
 var niezdobyteLayer = L.layerGroup();
 var msbDoneLayer = L.layerGroup();
 var loopDoneLayer = L.layerGroup();
-var projectDoneLayer = L.layerGroup();
+var karpatiaDoneLayer = L.layerGroup();
 var headquater = L.layerGroup();
 var msbLayer = L.layerGroup();
 var loopLayer = L.layerGroup();
-var projectLayer = L.layerGroup();
+var karpatiaLayer = L.layerGroup();
 
 map.createPane('loopPane');
 map.getPane('loopPane').style.zIndex = 500;
@@ -134,10 +134,10 @@ map.getPane('msbPane').style.zIndex = 400;
 map.createPane('msbDonePane');
 map.getPane('msbDonePane').style.zIndex = 410;
 
-map.createPane('projectPane');
-map.getPane('projectPane').style.zIndex = 400;
-map.createPane('projectDonePane');
-map.getPane('projectDonePane').style.zIndex = 410;
+map.createPane('karpatiaPane');
+map.getPane('karpatiaPane').style.zIndex = 400;
+map.createPane('karpatiaDonePane');
+map.getPane('karpatiaDonePane').style.zIndex = 410;
 
 map.createPane('vertexPane');
 map.getPane('vertexPane').style.zIndex = 600;
@@ -201,12 +201,12 @@ var groupedOverlays = {
     },
     "Nasze górskie projekty": {
         "Mały Szlak Beskidzki": msbLayer,
-        "Nowy Projekt": projectLayer
+        "Szlak \"Karpatia\"": karpatiaLayer
         // "The Loop": loopLayer
     },
     "Zdobyte fragmenty": {
         "Mały Szlak Beskidzki": msbDoneLayer,
-        "Nowy Projekt": projectDoneLayer
+        "Szlak \"Karpatia\"": karpatiaDoneLayer
         // "The Loop": loopDoneLayer
     },
     "Tatry ponad wszystko": {

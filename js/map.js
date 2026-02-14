@@ -37,7 +37,7 @@ modeControl.addTo(map);
 updateMode(mode);
 
 let firstLaunch = false;
-const layers = [msbLayer, msbDoneLayer, projectLayer, projectDoneLayer, loopDoneLayer];
+const layers = [msbLayer, msbDoneLayer, karpatiaLayer, karpatiaDoneLayer, loopDoneLayer];
 
 map.on('overlayadd', function(e) {
     if (!firstLaunch) return;
