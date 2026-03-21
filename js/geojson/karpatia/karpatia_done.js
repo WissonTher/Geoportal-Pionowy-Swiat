@@ -1,4 +1,4 @@
-fetch('data/karpatia_done.geojson')
+fetch('data/karpatia_done.geojson?t=' + Date.now())
     .then(response => response.json())
     .then(data => {
         var karpatiaDoneWhite = L.geoJSON(data, {

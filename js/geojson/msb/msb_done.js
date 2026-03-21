@@ -1,4 +1,4 @@
-fetch('data/msb_done.geojson')
+fetch('data/msb_done.geojson?t=' + Date.now())
     .then(response => response.json())
     .then(data => {
         var msbDoneWhite = L.geoJSON(data, {
