@@ -14,9 +14,9 @@
         "nazwa": "Rysy",
         "wysokosc": 2499,
         "rodzaj": "szczyt",
-        "zdobyty": false,
-        "data": "None",
-        "instagram": "None",
+        "zdobyty": true,
+        "data": "19 października 2026",
+        "instagram": "https://www.instagram.com/p/DdiHzYNjKRB/?utm_source=ig_web_copy_link&jplx=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==",
         "zima": false,
         "data_zima": "None",
         "instagram_zima": "None"
@@ -2390,9 +2390,9 @@
         "zdobyty": true,
         "data": "14 czerwca 2024",
         "instagram": "https://www.instagram.com/p/C5wO_k1sr71/",
-        "zima": false,
-        "data_zima": "None",
-        "instagram_zima": "None"
+        "zima": true,
+        "data_zima": "13 luty 2026",
+        "instagram_zima": "https://www.instagram.com/p/DU1DPBrDPfJ/?utm_source=ig_web_copy_link&bqrl=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA=="
       }
     },
     {
